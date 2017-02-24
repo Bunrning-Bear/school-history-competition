@@ -1,0 +1,2786 @@
+[ 2015-08-06T01:20:18+08:00 ] 127.0.0.1 /xiaoshi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001045s ]
+
+[ 2015-08-06T01:20:20+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000456s ]
+
+[ 2015-08-06T01:20:31+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000598s ]
+ERR: 不存在的图像文件
+
+[ 2015-08-06T01:21:04+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000721s ]
+ERR: 不存在的图像文件
+
+[ 2015-08-06T01:22:52+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+
+[ 2015-08-06T01:24:12+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000636s ]
+
+[ 2015-08-06T01:24:42+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000622s ]
+ERR: 不存在的图像文件
+
+[ 2015-08-06T01:24:45+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+ERR: 不存在的图像文件
+
+[ 2015-08-06T01:24:58+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000757s ]
+ERR: 不存在的图像文件
+
+[ 2015-08-06T01:25:14+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000582s ]
+
+[ 2015-08-06T01:25:19+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000570s ]
+
+[ 2015-08-06T01:25:56+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+
+[ 2015-08-06T01:26:06+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000550s ]
+
+[ 2015-08-06T01:26:06+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/tmp/cutf899139df5e1059396431415e770c6dd.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001224s ]
+
+[ 2015-08-06T01:26:06+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/tmp/coverf899139df5e1059396431415e770c6dd.jpg/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001816s ]
+
+[ 2015-08-06T01:26:06+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+
+[ 2015-08-06T01:26:06+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/tmp/coverf899139df5e1059396431415e770c6dd.jpg/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+
+[ 2015-08-06T01:26:06+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/tmp/cutf899139df5e1059396431415e770c6dd.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+
+[ 2015-08-06T01:26:09+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000547s ]
+
+[ 2015-08-06T01:26:17+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/tmp/cutf899139df5e1059396431415e770c6dd.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000910s ]
+
+[ 2015-08-06T01:27:22+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000637s ]
+
+[ 2015-08-06T01:27:22+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000560s ]
+
+[ 2015-08-06T01:27:55+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+
+[ 2015-08-06T01:28:00+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000512s ]
+
+[ 2015-08-06T01:28:00+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check/tmp/cutf899139df5e1059396431415e770c6dd.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+
+[ 2015-08-06T01:28:00+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/tmp/coverf899139df5e1059396431415e770c6dd.jpg/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001073s ]
+
+[ 2015-08-06T01:28:03+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check/tmp/cutf899139df5e1059396431415e770c6dd.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001775s ]
+
+[ 2015-08-06T01:28:43+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000545s ]
+
+[ 2015-08-06T01:28:46+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000576s ]
+
+[ 2015-08-06T01:30:20+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000605s ]
+
+[ 2015-08-06T01:30:20+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check/tmp/cutf899139df5e1059396431415e770c6dd.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+
+[ 2015-08-06T01:30:20+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/tmp/coverf899139df5e1059396431415e770c6dd.jpg/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+
+[ 2015-08-06T01:30:22+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000552s ]
+
+[ 2015-08-06T01:30:49+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000556s ]
+
+[ 2015-08-06T01:30:49+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check/tmp/cutf899139df5e1059396431415e770c6dd.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000787s ]
+
+[ 2015-08-06T01:31:17+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000571s ]
+
+[ 2015-08-06T01:31:17+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/tmp/coverf899139df5e1059396431415e770c6dd.jpg/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000765s ]
+
+[ 2015-08-06T01:31:17+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check/tmp/cutf899139df5e1059396431415e770c6dd.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000755s ]
+
+[ 2015-08-06T01:31:28+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000531s ]
+
+[ 2015-08-06T01:31:28+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check/tmp/cutf899139df5e1059396431415e770c6dd.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000862s ]
+
+[ 2015-08-06T01:31:28+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/tmp/coverf899139df5e1059396431415e770c6dd.jpg/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000663s ]
+
+[ 2015-08-06T01:31:29+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000499s ]
+
+[ 2015-08-06T01:31:29+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/tmp/coverf899139df5e1059396431415e770c6dd.jpg/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001890s ]
+
+[ 2015-08-06T01:31:29+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check/tmp/cutf899139df5e1059396431415e770c6dd.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002918s ]
+
+[ 2015-08-06T01:31:29+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+
+[ 2015-08-06T01:31:29+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check/tmp/cutf899139df5e1059396431415e770c6dd.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000643s ]
+
+[ 2015-08-06T01:31:29+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+
+[ 2015-08-06T01:31:29+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/tmp/coverf899139df5e1059396431415e770c6dd.jpg/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000557s ]
+
+[ 2015-08-06T01:31:29+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check/tmp/cutf899139df5e1059396431415e770c6dd.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+
+[ 2015-08-06T01:31:47+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000638s ]
+
+[ 2015-08-06T01:31:47+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/tmp/coverf899139df5e1059396431415e770c6dd.jpg/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+
+[ 2015-08-06T01:31:47+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check/tmp/cutf899139df5e1059396431415e770c6dd.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002255s ]
+
+[ 2015-08-06T01:32:50+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000551s ]
+
+[ 2015-08-06T01:32:50+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check/tmp/cutf899139df5e1059396431415e770c6dd.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000666s ]
+
+[ 2015-08-06T01:32:50+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/prefixURLtmp/coverf899139df5e1059396431415e770c6dd.jpg/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+
+[ 2015-08-06T01:33:00+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+
+[ 2015-08-06T01:33:00+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/prefixURLtmp/coverf899139df5e1059396431415e770c6dd.jpg/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000717s ]
+
+[ 2015-08-06T01:33:00+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check/tmp/cutf899139df5e1059396431415e770c6dd.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000778s ]
+
+[ 2015-08-06T01:33:01+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+
+[ 2015-08-06T01:33:01+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/prefixURLtmp/coverf899139df5e1059396431415e770c6dd.jpg/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+
+[ 2015-08-06T01:33:01+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check/tmp/cutf899139df5e1059396431415e770c6dd.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+
+[ 2015-08-06T01:33:26+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000584s ]
+
+[ 2015-08-06T01:33:27+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000573s ]
+
+[ 2015-08-06T01:33:31+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000606s ]
+
+[ 2015-08-06T01:33:31+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check/tmp/coverf899139df5e1059396431415e770c6dd.jpg/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+
+[ 2015-08-06T01:33:31+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check//tmp/cutf899139df5e1059396431415e770c6dd.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000551s ]
+
+[ 2015-08-06T01:33:37+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000559s ]
+
+[ 2015-08-06T01:33:37+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check//tmp/cutf899139df5e1059396431415e770c6dd.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+
+[ 2015-08-06T01:33:37+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check/tmp/coverf899139df5e1059396431415e770c6dd.jpg/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000666s ]
+
+[ 2015-08-06T01:33:38+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000552s ]
+
+[ 2015-08-06T01:33:38+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check/tmp/coverf899139df5e1059396431415e770c6dd.jpg/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000779s ]
+
+[ 2015-08-06T01:33:38+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check//tmp/cutf899139df5e1059396431415e770c6dd.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000725s ]
+
+[ 2015-08-06T01:33:39+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000570s ]
+
+[ 2015-08-06T01:33:39+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check/tmp/coverf899139df5e1059396431415e770c6dd.jpg/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000586s ]
+
+[ 2015-08-06T01:33:39+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check//tmp/cutf899139df5e1059396431415e770c6dd.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000667s ]
+
+[ 2015-08-06T01:34:06+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+
+[ 2015-08-06T01:34:06+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check/tmp/coverac9dab4e2a08d5e2c595cbbf45c5cc78.jpg/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000620s ]
+
+[ 2015-08-06T01:34:06+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check//tmp/cutac9dab4e2a08d5e2c595cbbf45c5cc78.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000549s ]
+
+[ 2015-08-06T01:34:07+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+
+[ 2015-08-06T01:34:07+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check/tmp/covera6c0c63d5da02fea5ca3e079b93d64b3.jpg/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000594s ]
+
+[ 2015-08-06T01:34:07+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000516s ]
+
+[ 2015-08-06T01:34:07+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check/tmp/cover0fb607d88c5ba479b82f26867038767f.jpg/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000517s ]
+
+[ 2015-08-06T01:34:08+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+
+[ 2015-08-06T01:34:08+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check//tmp/cut7e4f882d2ea10f9f8a665f9d92e4087f.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000582s ]
+
+
+[ 2015-08-06T01:34:09+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000850s ]
+
+[ 2015-08-06T01:34:09+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check/tmp/cover2d7710310f322c7eb9f02786439149d1.jpg/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+
+[ 2015-08-06T01:34:09+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check//tmp/cut2d7710310f322c7eb9f02786439149d1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004314s ]
+
+[ 2015-08-06T01:34:09+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+
+[ 2015-08-06T01:34:09+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check//tmp/cut058d6f2fbe951a5a56d96b1f1a6bca1c.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+
+[ 2015-08-06T01:34:09+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check/tmp/cover058d6f2fbe951a5a56d96b1f1a6bca1c.jpg/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+
+[ 2015-08-06T01:34:19+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+
+[ 2015-08-06T01:34:31+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+
+[ 2015-08-06T01:35:42+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000586s ]
+
+[ 2015-08-06T01:35:42+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check/tmp/cut0dc59bfe5a9309e6bae77b0fbc96f64a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000677s ]
+
+[ 2015-08-06T01:35:42+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check/tmp/cover0dc59bfe5a9309e6bae77b0fbc96f64a.jpg/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000803s ]
+
+[ 2015-08-06T01:35:50+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000585s ]
+
+[ 2015-08-06T01:35:56+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000545s ]
+
+[ 2015-08-06T01:36:29+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000593s ]
+
+[ 2015-08-06T01:36:29+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check/tmp/cut74b1f763a7f32e1a55307cbcd27531ca.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+
+[ 2015-08-06T01:36:29+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check/tmp/cover74b1f763a7f32e1a55307cbcd27531ca.jpg/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000672s ]
+
+[ 2015-08-06T01:36:30+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000563s ]
+
+[ 2015-08-06T01:36:30+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check/tmp/cover2db4ab52f7b412fd1527c52225ddaf86.jpg/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000680s ]
+
+[ 2015-08-06T01:36:30+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check/tmp/cut2db4ab52f7b412fd1527c52225ddaf86.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000701s ]
+
+[ 2015-08-06T01:36:30+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+
+[ 2015-08-06T01:36:30+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check/tmp/cover8cc76aa60d671138e037520930656242.jpg/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000605s ]
+
+[ 2015-08-06T01:36:30+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check/tmp/cut8cc76aa60d671138e037520930656242.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000664s ]
+
+[ 2015-08-06T01:36:30+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+
+[ 2015-08-06T01:36:30+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check/tmp/cover5925f3bc1486223df4a98391fe22ea60.jpg/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000712s ]
+
+[ 2015-08-06T01:36:30+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check/tmp/cut5925f3bc1486223df4a98391fe22ea60.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000727s ]
+
+[ 2015-08-06T01:36:42+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000578s ]
+
+[ 2015-08-06T01:39:40+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000639s ]
+
+[ 2015-08-06T01:39:40+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check/tmp/cut676e76856c7fea3bc6378d1e6deea2aa.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000122s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001998s ]
+
+[ 2015-08-06T01:39:40+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check/tmp/cover676e76856c7fea3bc6378d1e6deea2aa.jpg/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000760s ]
+
+[ 2015-08-06T01:40:18+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check/tmp/cutecfc2e7c2ba99c49c357acb0db172149.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000807s ]
+
+[ 2015-08-06T01:41:45+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check/tmp/cutecfc2e7c2ba99c49c357acb0db172149.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000548s ]
+
+[ 2015-08-06T01:41:46+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check/tmp/cutecfc2e7c2ba99c49c357acb0db172149.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000910s ]
+
+[ 2015-08-06T01:41:50+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000501s ]
+
+[ 2015-08-06T01:41:55+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+
+[ 2015-08-06T01:43:13+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000745s ]
+
+[ 2015-08-06T01:43:13+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check/tmp/cutb120434bc398d14f3dda03fa4ca5e767.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000691s ]
+
+[ 2015-08-06T01:43:13+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check/tmp/coverb120434bc398d14f3dda03fa4ca5e767.jpg/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000826s ]
+
+[ 2015-08-06T01:43:13+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/%3C%7B$test%7D/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000304s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003916s ]
+ERR: 无法加载控制器:
+
+[ 2015-08-06T01:43:15+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000578s ]
+
+[ 2015-08-06T01:43:23+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000602s ]
+
+[ 2015-08-06T01:43:23+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check/tmp/cut0b273b9a5033296646175710f43c6780.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001061s ]
+
+[ 2015-08-06T01:43:23+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check/check_2.jpg/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+
+[ 2015-08-06T01:43:23+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check/tmp/cover0b273b9a5033296646175710f43c6780.jpg/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002660s ]
+
+[ 2015-08-06T01:43:25+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+
+[ 2015-08-06T01:43:27+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check/check_2.jpg/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000738s ]
+
+[ 2015-08-06T01:44:29+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check/check_2.jpg/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000751s ]
+
+[ 2015-08-06T01:44:30+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+
+[ 2015-08-06T01:44:32+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/xiaoshi/Public/check/tmp/cut63471c57f10ce66b4ad0b235847b5dc1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000694s ]
+
+[ 2015-08-06T01:45:20+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/xiaoshi/Public/check/tmp/cut63471c57f10ce66b4ad0b235847b5dc1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000733s ]
+
+[ 2015-08-06T01:48:06+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+
+[ 2015-08-06T01:48:06+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/tmp/cover884ce4bb65d328ecb03c598409e2b168.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000873s ]
+
+[ 2015-08-06T01:48:06+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check/check_2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001322s ]
+
+[ 2015-08-06T01:48:06+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/tmp/cut884ce4bb65d328ecb03c598409e2b168.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000974s ]
+
+[ 2015-08-06T01:48:07+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+
+[ 2015-08-06T01:48:07+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/tmp/coverb4a721cfb62f5d19ec61575114d8a2d1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000683s ]
+
+[ 2015-08-06T01:48:07+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/tmp/cutb4a721cfb62f5d19ec61575114d8a2d1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000902s ]
+
+[ 2015-08-06T01:48:07+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check/check_2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000842s ]
+
+[ 2015-08-06T01:48:07+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000661s ]
+
+[ 2015-08-06T01:48:07+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/tmp/cover21993f0e240be6533d3f445307d51767.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000712s ]
+
+[ 2015-08-06T01:48:07+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check/check_2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000759s ]
+
+[ 2015-08-06T01:48:07+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/tmp/cut21993f0e240be6533d3f445307d51767.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000743s ]
+
+[ 2015-08-06T01:48:08+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000538s ]
+
+[ 2015-08-06T01:48:38+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+
+[ 2015-08-06T01:48:43+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000564s ]
+
+[ 2015-08-06T01:48:43+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check/check_2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000662s ]
+
+[ 2015-08-06T01:48:43+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check/tmp/cut8e03ddb0982e1deb2023db3758f12ef5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000706s ]
+
+[ 2015-08-06T01:48:43+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check/tmp/cover8e03ddb0982e1deb2023db3758f12ef5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000614s ]
+
+[ 2015-08-06T01:48:44+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000618s ]
+
+[ 2015-08-06T01:48:44+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check/tmp/cover44e8c3e9d4a9b627e1c2d22b92d048f6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000678s ]
+
+[ 2015-08-06T01:48:44+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check/check_2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000691s ]
+
+[ 2015-08-06T01:48:44+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check/tmp/cut44e8c3e9d4a9b627e1c2d22b92d048f6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000642s ]
+
+[ 2015-08-06T01:48:44+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000537s ]
+
+[ 2015-08-06T01:48:44+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check/tmp/cover0cf57e9bf1fe932509c7aa750d687608.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000680s ]
+
+[ 2015-08-06T01:48:44+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check/check_2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000655s ]
+
+[ 2015-08-06T01:48:45+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000531s ]
+
+[ 2015-08-06T01:48:45+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check/tmp/cutdfdb149b80f0b5e156f6ebd86cd577fc.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000629s ]
+
+[ 2015-08-06T01:48:45+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check/tmp/coverdfdb149b80f0b5e156f6ebd86cd577fc.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000718s ]
+
+[ 2015-08-06T01:48:45+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check/check_2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002952s ]
+
+[ 2015-08-06T01:48:45+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000931s ]
+
+[ 2015-08-06T01:48:45+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check/tmp/covera1cae678af59c92bbf86e04d9949aad7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000691s ]
+
+[ 2015-08-06T01:48:45+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check/check_2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000645s ]
+
+[ 2015-08-06T01:48:45+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check/tmp/cuta1cae678af59c92bbf86e04d9949aad7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004149s ]
+
+[ 2015-08-06T01:48:45+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+
+[ 2015-08-06T01:48:45+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check/check_2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000115s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001929s ]
+
+[ 2015-08-06T01:48:45+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check/tmp/cover5c3a6f90f64fc0016e0f0346a0d8f9df.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001509s ]
+
+[ 2015-08-06T01:48:45+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Public/check/tmp/cut5c3a6f90f64fc0016e0f0346a0d8f9df.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001354s ]
+
+[ 2015-08-06T01:49:27+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000611s ]
+
+[ 2015-08-06T01:49:52+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000632s ]
+
+[ 2015-08-06T01:49:53+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000594s ]
+
+[ 2015-08-06T01:49:53+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000555s ]
+
+[ 2015-08-06T01:49:54+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+
+[ 2015-08-06T01:49:54+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+
+[ 2015-08-06T01:49:54+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+
+[ 2015-08-06T01:49:55+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000680s ]
+
+[ 2015-08-06T01:49:55+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+
+[ 2015-08-06T01:49:56+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000678s ]
+
+[ 2015-08-06T01:49:56+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+
+[ 2015-08-06T01:49:57+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+
+[ 2015-08-06T01:49:57+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000646s ]
+
+[ 2015-08-06T01:49:58+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+
+[ 2015-08-06T01:49:59+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000536s ]
+
+[ 2015-08-06T01:49:59+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+
+[ 2015-08-06T01:50:00+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000576s ]
+
+[ 2015-08-06T01:50:00+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000552s ]
+
+[ 2015-08-06T01:50:01+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000554s ]
+
+[ 2015-08-06T01:50:01+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+
+[ 2015-08-06T01:50:02+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+
+[ 2015-08-06T01:51:22+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000596s ]
+
+[ 2015-08-06T01:51:24+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+
+[ 2015-08-06T01:51:24+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000584s ]
+
+[ 2015-08-06T01:51:26+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000533s ]
+
+[ 2015-08-06T01:51:26+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+
+[ 2015-08-06T01:51:27+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000537s ]
+
+[ 2015-08-06T01:51:27+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000611s ]
+
+[ 2015-08-06T01:51:28+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+
+[ 2015-08-06T01:51:29+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+
+[ 2015-08-06T01:51:29+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000559s ]
+
+[ 2015-08-06T01:51:29+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+
+[ 2015-08-06T01:51:30+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+
+[ 2015-08-06T01:51:30+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+
+[ 2015-08-06T01:51:30+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+
+[ 2015-08-06T01:51:30+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+
+[ 2015-08-06T01:51:30+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+
+[ 2015-08-06T01:51:31+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+
+[ 2015-08-06T01:51:31+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+
+[ 2015-08-06T01:51:31+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000564s ]
+
+[ 2015-08-06T01:51:31+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000623s ]
+
+[ 2015-08-06T01:51:32+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000727s ]
+
+[ 2015-08-06T01:51:32+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000560s ]
+
+[ 2015-08-06T01:51:32+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000586s ]
+
+[ 2015-08-06T01:51:43+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000686s ]
+
+[ 2015-08-06T01:51:44+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+
+[ 2015-08-06T01:51:45+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000567s ]
+
+[ 2015-08-06T01:51:52+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+
+[ 2015-08-06T01:51:53+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000901s ]
+
+[ 2015-08-06T01:51:54+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000633s ]
+
+[ 2015-08-06T01:52:01+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000651s ]
+
+[ 2015-08-06T01:52:02+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+
+[ 2015-08-06T01:52:02+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+
+[ 2015-08-06T01:52:02+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+
+[ 2015-08-06T01:52:02+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+
+[ 2015-08-06T01:52:03+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000740s ]
+
+[ 2015-08-06T01:52:03+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+
+[ 2015-08-06T01:52:03+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000775s ]
+
+[ 2015-08-06T01:52:03+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000494s ]
+
+[ 2015-08-06T01:52:03+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+
+[ 2015-08-06T01:52:04+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+
+[ 2015-08-06T01:52:04+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000499s ]
+
+[ 2015-08-06T01:52:04+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+
+[ 2015-08-06T01:52:35+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000579s ]
+
+[ 2015-08-06T01:52:36+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+
+[ 2015-08-06T01:52:37+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+
+[ 2015-08-06T01:52:37+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000537s ]
+
+[ 2015-08-06T01:52:38+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000692s ]
+
+[ 2015-08-06T01:52:38+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+
+[ 2015-08-06T01:52:39+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000532s ]
+
+[ 2015-08-06T01:53:03+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000533s ]
+
+[ 2015-08-06T01:53:03+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000593s ]
+
+[ 2015-08-06T01:53:12+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+ERR: 不存在的图像文件
+
+[ 2015-08-06T01:53:28+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+
+[ 2015-08-06T01:53:29+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001059s ]
+
+[ 2015-08-06T01:53:30+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000664s ]
+
+[ 2015-08-06T01:53:30+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000712s ]
+
+[ 2015-08-06T01:53:31+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000564s ]
+
+[ 2015-08-06T01:53:31+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000742s ]
+
+[ 2015-08-06T01:53:31+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+
+[ 2015-08-06T01:53:31+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000748s ]
+
+[ 2015-08-06T02:01:08+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000831s ]
+
+[ 2015-08-06T02:01:09+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000592s ]
+
+[ 2015-08-06T02:01:59+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000583s ]
+
+[ 2015-08-06T02:02:00+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000662s ]
+
+[ 2015-08-06T02:02:01+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000552s ]
+
+[ 2015-08-06T02:02:01+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+
+[ 2015-08-06T02:02:02+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+
+[ 2015-08-06T02:02:03+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000542s ]
+
+[ 2015-08-06T02:02:03+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+
+[ 2015-08-06T02:02:04+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000550s ]
+
+[ 2015-08-06T02:02:04+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000552s ]
+
+[ 2015-08-06T02:02:05+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000862s ]
+
+[ 2015-08-06T02:04:17+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000823s ]
+
+[ 2015-08-06T02:04:17+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/tmp/cover01243deb99c1b8dfff0425a371631959.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000718s ]
+
+[ 2015-08-06T02:04:21+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+
+[ 2015-08-06T02:04:21+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/tmp/covere3bbb62577c54d3f9b73cf0a88dcd11c.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001155s ]
+
+[ 2015-08-06T02:05:00+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000685s ]
+
+[ 2015-08-06T02:05:01+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000604s ]
+
+[ 2015-08-06T02:05:02+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+
+[ 2015-08-06T02:05:02+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000504s ]
+
+[ 2015-08-06T02:05:03+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000604s ]
+
+[ 2015-08-06T02:10:13+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000807s ]
+
+[ 2015-08-06T02:10:13+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/cssAll.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000104s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001248s ]
+ERR: 无法加载控制器:CssAll.css
+
+[ 2015-08-06T02:10:14+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/__Public__/Js/varOutAll.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+ERR: 无法加载控制器:__Public__
+
+[ 2015-08-06T02:10:14+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/__Public__/Js/end.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000990s ]
+ERR: 无法加载控制器:__Public__
+
+[ 2015-08-06T02:10:14+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/__Public__/Js/getQuestion.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000767s ]
+ERR: 无法加载控制器:__Public__
+
+[ 2015-08-06T02:10:14+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/__Public__/Js/transon.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000826s ]
+ERR: 无法加载控制器:__Public__
+
+[ 2015-08-06T02:10:14+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/__Public__/Js/transback.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000788s ]
+ERR: 无法加载控制器:__Public__
+
+[ 2015-08-06T02:10:14+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/__Public__/Js/gentrans.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000892s ]
+ERR: 无法加载控制器:__Public__
+
+[ 2015-08-06T02:10:14+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/__Public__/Js/translatemove.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000626s ]
+ERR: 无法加载控制器:__Public__
+
+[ 2015-08-06T02:10:14+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/__Public__/Js/begin.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000656s ]
+ERR: 无法加载控制器:__Public__
+
+[ 2015-08-06T02:10:14+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/__Public__/Js/getPanduan.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009909s ]
+ERR: 无法加载控制器:__Public__
+
+[ 2015-08-06T02:10:14+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/__Public__/Js/arrange.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000676s ]
+ERR: 无法加载控制器:__Public__
+
+[ 2015-08-06T02:10:14+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/__Public__/Js/shake.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001841s ]
+ERR: 无法加载控制器:__Public__
+
+[ 2015-08-06T02:10:14+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/__Public__/Js/time.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001182s ]
+ERR: 无法加载控制器:__Public__
+
+[ 2015-08-06T02:10:14+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/__Public__/Js/main.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002326s ]
+ERR: 无法加载控制器:__Public__
+
+[ 2015-08-06T02:11:07+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000585s ]
+
+[ 2015-08-06T02:11:07+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/__Public__/Js/varOutAll.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000646s ]
+ERR: 无法加载控制器:__Public__
+
+[ 2015-08-06T02:11:07+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/__Public__/Js/getPanduan.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000637s ]
+ERR: 无法加载控制器:__Public__
+
+[ 2015-08-06T02:11:07+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/__Public__/Js/getQuestion.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000663s ]
+ERR: 无法加载控制器:__Public__
+
+[ 2015-08-06T02:11:07+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/__Public__/Js/end.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000633s ]
+ERR: 无法加载控制器:__Public__
+
+[ 2015-08-06T02:11:07+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/cssAll.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000712s ]
+ERR: 无法加载控制器:CssAll.css
+
+[ 2015-08-06T02:11:07+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/__Public__/Js/transon.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000692s ]
+ERR: 无法加载控制器:__Public__
+
+[ 2015-08-06T02:11:07+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/__Public__/Js/transback.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000738s ]
+ERR: 无法加载控制器:__Public__
+
+[ 2015-08-06T02:11:07+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/__Public__/Js/shake.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.021655s ]
+ERR: 无法加载控制器:__Public__
+
+[ 2015-08-06T02:11:07+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/__Public__/Js/translatemove.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000696s ]
+ERR: 无法加载控制器:__Public__
+
+[ 2015-08-06T02:11:07+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/__Public__/Js/begin.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000622s ]
+ERR: 无法加载控制器:__Public__
+
+[ 2015-08-06T02:11:07+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/__Public__/Js/arrange.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002909s ]
+ERR: 无法加载控制器:__Public__
+
+[ 2015-08-06T02:11:07+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/__Public__/Js/gentrans.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001763s ]
+ERR: 无法加载控制器:__Public__
+
+[ 2015-08-06T02:11:07+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/__Public__/Js/time.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000864s ]
+ERR: 无法加载控制器:__Public__
+
+[ 2015-08-06T02:11:07+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/__Public__/Js/main.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001588s ]
+ERR: 无法加载控制器:__Public__
+
+[ 2015-08-06T02:11:25+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+
+[ 2015-08-06T02:11:25+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/__Public__/Js/getPanduan.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001998s ]
+ERR: 无法加载控制器:__Public__
+
+[ 2015-08-06T02:11:25+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/__Public__/Js/varOutAll.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001235s ]
+ERR: 无法加载控制器:__Public__
+
+[ 2015-08-06T02:11:25+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/__Public__/Js/getQuestion.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000840s ]
+ERR: 无法加载控制器:__Public__
+
+[ 2015-08-06T02:11:25+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/__Public__/Js/end.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000855s ]
+ERR: 无法加载控制器:__Public__
+
+[ 2015-08-06T02:11:25+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/__Public__/Js/gentrans.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001232s ]
+ERR: 无法加载控制器:__Public__
+
+[ 2015-08-06T02:11:25+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/cssAll.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001121s ]
+ERR: 无法加载控制器:CssAll.css
+
+[ 2015-08-06T02:11:25+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/__Public__/Js/transback.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002357s ]
+ERR: 无法加载控制器:__Public__
+
+[ 2015-08-06T02:11:25+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/__Public__/Js/shake.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001123s ]
+ERR: 无法加载控制器:__Public__
+
+[ 2015-08-06T02:11:25+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/__Public__/Js/transon.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002627s ]
+ERR: 无法加载控制器:__Public__
+
+[ 2015-08-06T02:11:25+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/__Public__/Js/translatemove.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000841s ]
+ERR: 无法加载控制器:__Public__
+
+[ 2015-08-06T02:11:25+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/__Public__/Js/arrange.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000918s ]
+ERR: 无法加载控制器:__Public__
+
+[ 2015-08-06T02:11:25+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/__Public__/Js/main.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000673s ]
+ERR: 无法加载控制器:__Public__
+
+[ 2015-08-06T02:11:25+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/__Public__/Js/time.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000744s ]
+ERR: 无法加载控制器:__Public__
+
+[ 2015-08-06T02:11:25+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/__Public__/Js/begin.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002286s ]
+ERR: 无法加载控制器:__Public__
+
+[ 2015-08-06T02:12:01+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000575s ]
+
+[ 2015-08-06T02:12:01+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/__Public__/Js/varOutAll.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001105s ]
+ERR: 无法加载控制器:__Public__
+
+[ 2015-08-06T02:12:01+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/__Public__/Js/getPanduan.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000878s ]
+ERR: 无法加载控制器:__Public__
+
+[ 2015-08-06T02:12:01+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/__Public__/Js/getQuestion.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002637s ]
+ERR: 无法加载控制器:__Public__
+
+[ 2015-08-06T02:12:01+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/__Public__/Js/end.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000779s ]
+ERR: 无法加载控制器:__Public__
+
+[ 2015-08-06T02:12:01+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/cssAll.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001219s ]
+ERR: 无法加载控制器:CssAll.css
+
+[ 2015-08-06T02:12:01+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/__Public__/Js/transon.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001253s ]
+ERR: 无法加载控制器:__Public__
+
+[ 2015-08-06T02:12:01+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/__Public__/Js/arrange.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000965s ]
+ERR: 无法加载控制器:__Public__
+
+[ 2015-08-06T02:12:01+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/__Public__/Js/shake.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000985s ]
+ERR: 无法加载控制器:__Public__
+
+[ 2015-08-06T02:12:01+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/__Public__/Js/transback.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000711s ]
+ERR: 无法加载控制器:__Public__
+
+[ 2015-08-06T02:12:01+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/__Public__/Js/translatemove.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000795s ]
+ERR: 无法加载控制器:__Public__
+
+[ 2015-08-06T02:12:01+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/__Public__/Js/begin.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000711s ]
+ERR: 无法加载控制器:__Public__
+
+[ 2015-08-06T02:12:01+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/__Public__/Js/gentrans.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000982s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006694s ]
+ERR: 无法加载控制器:__Public__
+
+[ 2015-08-06T02:12:01+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/__Public__/Js/main.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002014s ]
+ERR: 无法加载控制器:__Public__
+
+[ 2015-08-06T02:12:01+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/__Public__/Js/time.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001052s ]
+ERR: 无法加载控制器:__Public__
+
+[ 2015-08-06T02:13:48+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000727s ]
+
+[ 2015-08-06T02:13:49+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/cssAll.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001527s ]
+ERR: 无法加载控制器:CssAll.css
+
+[ 2015-08-06T02:13:49+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000570s ]
+
+[ 2015-08-06T02:13:49+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/cssAll.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000698s ]
+ERR: 无法加载控制器:CssAll.css
+
+[ 2015-08-06T02:13:52+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000757s ]
+
+[ 2015-08-06T02:13:53+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/cssAll.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001102s ]
+ERR: 无法加载控制器:CssAll.css
+
+[ 2015-08-06T02:15:19+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001154s ]
+
+[ 2015-08-06T02:15:19+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/cssAll.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000763s ]
+ERR: 无法加载控制器:CssAll.css
+
+[ 2015-08-06T02:15:20+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000557s ]
+
+[ 2015-08-06T02:15:20+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/cssAll.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000171s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002109s ]
+ERR: 无法加载控制器:CssAll.css
+
+[ 2015-08-06T02:15:20+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000667s ]
+
+[ 2015-08-06T02:15:20+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/cssAll.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000782s ]
+ERR: 无法加载控制器:CssAll.css
+
+[ 2015-08-06T02:15:21+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004524s ]
+
+[ 2015-08-06T02:15:21+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/cssAll.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000737s ]
+ERR: 无法加载控制器:CssAll.css
+
+[ 2015-08-06T02:15:21+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+
+[ 2015-08-06T02:15:21+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/cssAll.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002204s ]
+ERR: 无法加载控制器:CssAll.css
+
+[ 2015-08-06T02:15:21+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+
+[ 2015-08-06T02:15:21+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/cssAll.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005898s ]
+ERR: 无法加载控制器:CssAll.css
+
+[ 2015-08-06T02:16:07+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000595s ]
+
+[ 2015-08-06T02:16:07+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/cssAll.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002120s ]
+ERR: 无法加载控制器:CssAll.css
+
+[ 2015-08-06T02:16:08+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+
+[ 2015-08-06T02:16:08+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/cssAll.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000646s ]
+ERR: 无法加载控制器:CssAll.css
+
+[ 2015-08-06T02:16:09+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000731s ]
+
+[ 2015-08-06T02:16:09+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/cssAll.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000911s ]
+ERR: 无法加载控制器:CssAll.css
+
+[ 2015-08-06T02:16:15+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000549s ]
+
+[ 2015-08-06T02:16:15+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/cssAll.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000736s ]
+ERR: 无法加载控制器:CssAll.css
+
+[ 2015-08-06T02:16:15+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000547s ]
+
+[ 2015-08-06T02:16:16+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/cssAll.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002566s ]
+ERR: 无法加载控制器:CssAll.css
+
+[ 2015-08-06T02:19:32+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000538s ]
+
+[ 2015-08-06T02:19:32+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/cssAll.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000713s ]
+ERR: 无法加载控制器:CssAll.css
+
+[ 2015-08-06T02:19:33+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+
+[ 2015-08-06T02:19:33+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/cssAll.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000556s ]
+ERR: 无法加载控制器:CssAll.css
+
+[ 2015-08-06T02:19:33+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000700s ]
+
+[ 2015-08-06T02:19:33+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/cssAll.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000725s ]
+ERR: 无法加载控制器:CssAll.css
+
+[ 2015-08-06T02:19:33+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000560s ]
+
+[ 2015-08-06T02:19:33+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/cssAll.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004358s ]
+ERR: 无法加载控制器:CssAll.css
+
+[ 2015-08-06T02:19:33+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000456s ]
+
+[ 2015-08-06T02:19:34+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/cssAll.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+ERR: 无法加载控制器:CssAll.css
+
+[ 2015-08-06T02:19:34+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002461s ]
+
+[ 2015-08-06T02:19:34+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/cssAll.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000844s ]
+ERR: 无法加载控制器:CssAll.css
+
+[ 2015-08-06T02:19:52+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000536s ]
+
+[ 2015-08-06T02:19:52+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/cssAll.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000718s ]
+ERR: 无法加载控制器:CssAll.css
+
+[ 2015-08-06T02:19:52+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001993s ]
+
+[ 2015-08-06T02:19:52+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/cssAll.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000708s ]
+ERR: 无法加载控制器:CssAll.css
+
+[ 2015-08-06T02:21:03+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+
+[ 2015-08-06T02:21:03+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/cssAll.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000905s ]
+ERR: 无法加载控制器:CssAll.css
+
+[ 2015-08-06T02:28:15+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000648s ]
+
+[ 2015-08-06T02:28:16+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/cssAll.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003562s ]
+ERR: 无法加载控制器:CssAll.css
+
+[ 2015-08-06T02:28:16+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000161s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001381s ]
+
+[ 2015-08-06T02:28:16+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/cssAll.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002507s ]
+ERR: 无法加载控制器:CssAll.css
+
+[ 2015-08-06T02:28:17+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000968s ]
+
+[ 2015-08-06T02:28:17+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/cssAll.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002076s ]
+ERR: 无法加载控制器:CssAll.css
+
+[ 2015-08-06T02:28:45+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000106s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001380s ]
+
+[ 2015-08-06T02:28:46+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/cssAll.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000723s ]
+ERR: 无法加载控制器:CssAll.css
+
+[ 2015-08-06T02:28:46+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+
+[ 2015-08-06T02:28:46+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/cssAll.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000683s ]
+ERR: 无法加载控制器:CssAll.css
+
+[ 2015-08-06T02:28:46+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000598s ]
+
+[ 2015-08-06T02:28:46+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/cssAll.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+ERR: 无法加载控制器:CssAll.css
+
+[ 2015-08-06T02:28:47+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000796s ]
+
+[ 2015-08-06T02:28:47+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/cssAll.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000718s ]
+ERR: 无法加载控制器:CssAll.css
+
+[ 2015-08-06T02:29:26+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000656s ]
+
+[ 2015-08-06T02:29:26+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/cssAll.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000805s ]
+ERR: 无法加载控制器:CssAll.css
+
+[ 2015-08-06T02:31:28+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000681s ]
+
+[ 2015-08-06T02:31:28+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001805s ]
+
+[ 2015-08-06T02:31:53+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000636s ]
+
+[ 2015-08-06T02:31:59+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000594s ]
+
+[ 2015-08-06T02:32:36+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+
+[ 2015-08-06T02:32:37+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000696s ]
+
+[ 2015-08-06T02:32:37+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000524s ]
+
+[ 2015-08-06T02:32:45+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000720s ]
+
+[ 2015-08-06T02:34:31+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001471s ]
+
+[ 2015-08-06T02:34:32+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000538s ]
+
+[ 2015-08-06T02:34:32+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000862s ]
+
+[ 2015-08-06T02:35:39+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000584s ]
+
+[ 2015-08-06T02:35:51+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+
+[ 2015-08-06T02:36:04+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000702s ]
+
+[ 2015-08-06T02:36:45+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+
+[ 2015-08-06T02:36:45+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000547s ]
+
+[ 2015-08-06T02:36:45+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000558s ]
+
+[ 2015-08-06T02:36:45+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000836s ]
+
+[ 2015-08-06T02:36:46+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+
+[ 2015-08-06T02:36:51+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000136s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001790s ]
+
+[ 2015-08-06T02:36:54+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+
+[ 2015-08-06T02:37:03+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000614s ]
+
+[ 2015-08-06T02:37:04+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000590s ]
+
+[ 2015-08-06T02:37:04+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000633s ]
+
+[ 2015-08-06T02:37:05+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+
+[ 2015-08-06T02:37:12+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+
+[ 2015-08-06T02:38:16+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001940s ]
+
+[ 2015-08-06T02:38:17+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000695s ]
+
+[ 2015-08-06T02:38:58+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000714s ]
+
+[ 2015-08-06T02:39:36+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000795s ]
+
+[ 2015-08-06T02:43:46+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+
+[ 2015-08-06T02:43:46+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001262s ]
+
+[ 2015-08-06T02:43:47+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000666s ]
+
+[ 2015-08-06T02:43:47+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000605s ]
+
+[ 2015-08-06T02:43:47+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000799s ]
+
+[ 2015-08-06T02:43:53+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+
+[ 2015-08-06T02:43:57+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000768s ]
+
+[ 2015-08-06T02:44:06+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+
+[ 2015-08-06T02:44:07+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000618s ]
+
+[ 2015-08-06T02:44:24+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+
+[ 2015-08-06T02:44:30+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000549s ]
+
+[ 2015-08-06T02:45:38+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000717s ]
+
+[ 2015-08-06T02:45:43+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+
+[ 2015-08-06T02:46:39+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+
+[ 2015-08-06T02:46:49+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000553s ]
+
+[ 2015-08-06T02:47:00+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000601s ]
+
+[ 2015-08-06T02:48:35+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/xiaoshi/Public/check/tmp/cut63471c57f10ce66b4ad0b235847b5dc1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000712s ]
+
+[ 2015-08-06T02:48:39+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002150s ]
+
+[ 2015-08-06T02:48:54+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000577s ]
+
+[ 2015-08-06T02:49:20+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000593s ]
+
+[ 2015-08-06T02:49:21+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000711s ]
+
+[ 2015-08-06T02:49:21+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000769s ]
+
+[ 2015-08-06T02:54:14+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000680s ]
+
+[ 2015-08-06T02:54:15+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001418s ]
+
+[ 2015-08-06T02:54:15+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+
+[ 2015-08-06T02:54:15+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000797s ]
+
+[ 2015-08-06T02:56:07+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000773s ]
+
+[ 2015-08-06T02:56:40+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000585s ]
+
+[ 2015-08-06T02:56:40+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000588s ]
+
+[ 2015-08-06T02:56:40+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000537s ]
+
+[ 2015-08-06T02:56:41+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000658s ]
+
+[ 2015-08-06T02:59:30+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000714s ]
+
+[ 2015-08-06T02:59:31+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000938s ]
+
+[ 2015-08-06T03:00:26+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000815s ]
+
+[ 2015-08-06T03:00:26+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000776s ]
+
+[ 2015-08-06T03:00:26+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000712s ]
+
+[ 2015-08-06T03:00:27+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001158s ]
+
+[ 2015-08-06T12:18:52+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001114s ]
+
+[ 2015-08-06T12:19:30+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000577s ]
+
+[ 2015-08-06T12:19:49+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000522s ]
+
+[ 2015-08-06T12:20:32+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000545s ]
+
+[ 2015-08-06T12:21:04+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000586s ]
+
+[ 2015-08-06T12:22:01+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000602s ]
+
+[ 2015-08-06T12:23:28+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+
+[ 2015-08-06T12:23:30+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000578s ]
+
+[ 2015-08-06T12:24:00+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000542s ]
+
+[ 2015-08-06T12:24:17+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000562s ]
+
+[ 2015-08-06T12:30:43+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000540s ]
+
+[ 2015-08-06T13:52:34+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000590s ]
+
+[ 2015-08-06T13:53:53+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001962s ]
+
+[ 2015-08-06T13:54:25+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000631s ]
+
+[ 2015-08-06T13:54:56+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000673s ]
+
+[ 2015-08-06T14:07:56+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000585s ]
+
+[ 2015-08-06T14:08:48+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000548s ]
+
+[ 2015-08-06T14:09:14+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+
+[ 2015-08-06T14:09:57+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+
+[ 2015-08-06T14:10:12+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001538s ]
+
+[ 2015-08-06T14:11:15+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000555s ]
+
+[ 2015-08-06T14:12:48+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000598s ]
+
+[ 2015-08-06T14:12:51+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000578s ]
+
+[ 2015-08-06T14:12:52+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000501s ]
+
+[ 2015-08-06T14:12:52+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+
+[ 2015-08-06T14:12:52+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000102s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002881s ]
+
+[ 2015-08-06T14:12:52+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000995s ]
+
+[ 2015-08-06T14:12:53+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000604s ]
+
+[ 2015-08-06T14:12:53+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+
+[ 2015-08-06T14:12:53+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+
+[ 2015-08-06T14:12:53+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000583s ]
+
+[ 2015-08-06T14:12:54+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+
+[ 2015-08-06T14:12:54+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001702s ]
+
+[ 2015-08-06T14:12:54+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+
+[ 2015-08-06T14:12:54+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000562s ]
+
+[ 2015-08-06T14:12:55+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000547s ]
+
+[ 2015-08-06T14:12:55+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000545s ]
+
+[ 2015-08-06T14:14:52+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000545s ]
+
+[ 2015-08-06T14:16:13+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+
+[ 2015-08-06T14:16:30+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000593s ]
+
+[ 2015-08-06T14:17:47+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001184s ]
+
+[ 2015-08-06T14:18:01+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000575s ]
+
+[ 2015-08-06T14:18:42+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000842s ]
+
+[ 2015-08-06T14:19:41+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+
+[ 2015-08-06T14:20:00+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000694s ]
+
+[ 2015-08-06T14:20:03+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000506s ]
+
+[ 2015-08-06T14:20:24+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000542s ]
+
+[ 2015-08-06T14:21:06+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000881s ]
+
+[ 2015-08-06T14:21:23+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000549s ]
+
+[ 2015-08-06T14:21:34+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000620s ]
+
+[ 2015-08-06T14:22:07+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000791s ]
+
+[ 2015-08-06T14:23:33+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001518s ]
+
+[ 2015-08-06T14:24:58+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000599s ]
+
+[ 2015-08-06T14:25:03+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000517s ]
+
+[ 2015-08-06T15:33:40+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000703s ]
+
+[ 2015-08-06T15:33:58+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000538s ]
+
+[ 2015-08-06T15:34:08+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001117s ]
+
+[ 2015-08-06T15:34:17+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+
+[ 2015-08-06T16:20:22+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Index/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001106s ]
+
+[ 2015-08-06T16:20:29+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Index/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000575s ]
+ERR: 非法操作:Check
+
+[ 2015-08-06T16:20:35+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001239s ]
+
+[ 2015-08-06T16:22:05+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000546s ]
+
+[ 2015-08-06T23:04:32+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.019851s ]
+
+[ 2015-08-06T23:04:59+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000562s ]
+
+[ 2015-08-06T23:06:22+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000972s ]
+
+[ 2015-08-06T23:06:32+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000723s ]
+
+[ 2015-08-06T23:07:25+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000577s ]
+
+[ 2015-08-06T23:18:28+08:00 ] 127.0.0.1 /xiaoshi/index.php/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000586s ]
+
+[ 2015-08-06T23:30:29+08:00 ] 127.0.0.1 /xiaoshi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000172s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002953s ]
+
+[ 2015-08-06T23:31:21+08:00 ] 127.0.0.1 /xiaoshi/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000758s ]
+
+[ 2015-08-06T23:31:40+08:00 ] 127.0.0.1 /xiaoshi/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001833s ]
+
+[ 2015-08-06T23:31:45+08:00 ] 127.0.0.1 /xiaoshi/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001370s ]
+
+[ 2015-08-06T23:31:49+08:00 ] 127.0.0.1 /xiaoshi/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002292s ]
+
+[ 2015-08-06T23:32:24+08:00 ] 127.0.0.1 /xiaoshi/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001065s ]
+
+[ 2015-08-06T23:33:38+08:00 ] 127.0.0.1 /xiaoshi/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000750s ]
+
+[ 2015-08-06T23:33:52+08:00 ] 127.0.0.1 /xiaoshi/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001629s ]
+
+[ 2015-08-06T23:34:26+08:00 ] 127.0.0.1 /xiaoshi/Home/Check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000512s ]
+
