@@ -5,11 +5,14 @@ class LoginController extends Controller
 {
     public function toLogin()
     {
+        C('SHOW_PAGE_TRACE',true);
+
         $toReturn = array(
             "result" => 0,//0代表登录失败，1代表登录成功，2代表进入进一步登录判断状态 3代表答题已经结束
             "output" => "非法登陆",
             "timeUsed" => 0,
         );
+        trace($toReturn,'提示trace');
         if(I("session.tokenLogin")==I("post.tokenLogin"))
         {
             session("tokenLogin",time());//判断语句结束后，马上改变令牌
@@ -75,11 +78,13 @@ class LoginController extends Controller
 
 public function judgeStatue()
 {
+
     $loginResult = I("session.loginResult");
     $time = I("session.time");
     $stuID = I("session.stuID");
     $qqueue= I("session.qqueue");
     $toReturn['tokenLogin'] = I("session.tokenLogin");
+    $toReturn['qqueue'] = I("session.qqueue");
     //如果是重复登录的，需要更新密钥
     if($loginResult == 2)
     {
@@ -98,7 +103,7 @@ public function judgeStatue()
 
         $queCon = A('question');
         $queCon->getQuestion($qqueue, $question, $ch['a'], $ch['b'], $ch['c'], $ch['d']);
-        $toReturn['question'] =$question;
+        $toReturn['question'] = $question;
         $toReturn['choiceA'] = $ch['a'];
         $toReturn['choiceB'] = $ch['b'];
         $toReturn['choiceC'] = $ch['c'];
@@ -107,9 +112,9 @@ public function judgeStatue()
         {
             $save['time'] = time();//储存时间戳
             $toReturn['timeUsed'] = 0;// 返回已用时间
-            $condition['stuID'] = $stuID;
+            $condition['stuid'] = $stuID;
             $user = M("User");
-            $user->where($condition)->field("time")->save($save);
+            $user->where($condition)->save($save);
         }
         else
         {
@@ -117,6 +122,7 @@ public function judgeStatue()
             $toReturn['timeUsed'] = time() - $time;//记录登录时间
         }
     }
+    $this->ajaxReturn($toReturn);
 /* 将题目储存到COOKIE的版本
         if ($time != -1)//正确数据应该是 time==-1 时为未开始答题
         {//登录成功，未开始答题
@@ -159,7 +165,7 @@ public function judgeStatue()
         $toReturn['choiceD'] = cookie("cD");
     }
 */
-    $this->ajaxReturn($toReturn);
+    
 }
     //注销登录
     public function Logoff()

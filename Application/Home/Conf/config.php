@@ -31,5 +31,7 @@ return array(
     'DB_FIELDS_CACHE'       =>  false,        // 启用字段缓存
 
     'COOKIE_EXPIRE'         =>  3700,      // Cookie有效期
-    'URL_HTML_SUFFIX'=>'html'
+    'URL_HTML_SUFFIX'=>'html',
+    'LOG_RECORD' => true,
+    'LOG_LEVEL'  =>'EMERG,ALERT,CRIT,ERR,DEBUG',
 );

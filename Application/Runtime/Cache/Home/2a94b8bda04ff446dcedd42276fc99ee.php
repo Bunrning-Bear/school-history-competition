@@ -414,11 +414,11 @@ window.onload = function()
         ajax = Ajax();
         ajax.post('/SHCS/index.php/Home/Login/toLogin', "xuehao=" + UserName + "&yikatong=" + PassWord+"&tokenLogin=" + tokenLogin, function (dataJ)
         {
-        	alert(JSON.stringify(dataJ));
+        	//alert(JSON.stringify(dataJ));
             eval("var data = " + dataJ);
 
             data['output'] = decodeURI(data['output']);
-            alert("here data is :"+data['output']);
+            //alert("here data is :"+data['output']);
             judgeLogin = data['result'];
             // token = data['token'];
 
@@ -451,9 +451,10 @@ window.onload = function()
 
             if (judgeContinue == 1 || judgeLogin == 1)
             {
+
                 ajax.get('/SHCS/index.php/Home/Login/judgeStatue', function (dataJ)
                 {
-
+                	// alert(JSON.stringify(dataJ));
                     eval("var data=" + dataJ);
                     tokenLogin = data['tokenLogin'];
                     Question = data['question'];

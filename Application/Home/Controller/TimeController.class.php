@@ -3,7 +3,7 @@ namespace Home\Controller;
 use Think\Controller;
 class TimeController extends  Controller
     {
-        protected $timeTotal = 2760;
+        protected $timeTotal = 120;
 
         public function toSubmit()
         {
@@ -11,7 +11,7 @@ class TimeController extends  Controller
             session_write_close();
             $timeLeft = $this->timeTotal - $timeUsed;
             //记得最后要把sleep的值改成timeleft
-            if(sleep($timeLeft) == 0 )
+            if($timeLeft<0||sleep($timeLeft) == 0 )
             {
 
                     $this->ajaxReturn(1);

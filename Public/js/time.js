@@ -9,15 +9,13 @@ var timePri = nowww.getTime();
 function ShowCountDown() 
 { 
 	var now = new Date();
-    alert(timeUsed);
-    alert(timePri);
     var k= (60*60*1000 - timeUsed * 1000 - (now.getTime() - timePri) )/1000;
     minute=k/60;
     minute=Math.floor(minute);
     second=k%60;
     second=Math.floor(second);
     var oDiv3=document.getElementById("divdown");
-    alert(k);
+    
 
   	if (k<= 2 )
 	{   

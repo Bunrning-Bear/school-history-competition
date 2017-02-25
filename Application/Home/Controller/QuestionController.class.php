@@ -143,8 +143,9 @@ class QuestionController extends Controller
             {
                 $array = $question->select();
                 echo "正在添加题目到memcache...</br></br>";
-               if(! $mem ->add("question",$array,MEMCACHE_COMPRESSED,3600))
-               {
+                $success = $mem -> add("question",$array,MEMCACHE_COMPRESSED,3600);
+               if(!$success)
+               {    
                    echo "添加题目到memcache 失败 </br></br>";
                }
                 else
@@ -188,11 +189,11 @@ class QuestionController extends Controller
                 $chC[$i] = 'C、'. $all[$num - 1]['c'];
                 $chD[$i] = 'D、'.$all[$num - 1]['d'];
             }
-            //    echo $question[$i] . "<br/>";
-            //    echo $chA[$i]."<br/>";
-            //    echo $chB[$i]."<br/>";
-             //   echo $chC[$i]."<br/>";
-            //   echo $chD[$i]."<br/>";
+        //     //    echo $question[$i] . "<br/>";
+        //     //    echo $chA[$i]."<br/>";
+        //     //    echo $chB[$i]."<br/>";
+        //      //   echo $chC[$i]."<br/>";
+        //     //   echo $chD[$i]."<br/>";
 
         }
 
@@ -209,18 +210,18 @@ class QuestionController extends Controller
             $rightS = 0; //记录答对的选择题
             $rightJ = 0;//记录答对的判断题
             for ($i = 0; $i < $this->numSelect; $i++) {
-                if ($resultAnswer[$i * 2 + 1] == $keyAnswer[$i]) {
+                if (strcasecmp($resultAnswer[$i * 2 + 1],$keyAnswer[$i]==0)) {
                     $rightS++;
                 }
             }
             for ($i = $this->numSelect; $i < $this->numSelect + $this->numJudge; $i++) {
-                if ($resultAnswer[$i * 2 + 1] == $keyAnswer[$i]) {
+                if (strcasecmp($resultAnswer[$i * 2 + 1],$keyAnswer[$i]==0)) {
                     $rightJ++;
                 }
             }
             $mark = $rightS * 2 + $rightJ;
             $user = M('User');
-            $condition['stuID'] = I('session.stuID');
+            $condition['stuid'] = I('session.stuID');
             $save['mark'] = $mark;
             $user->where($condition)->field("mark")->save($save);
             F(I("session.stuID"),null);
