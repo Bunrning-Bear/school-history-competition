@@ -155,9 +155,7 @@ function RunOnBeforeUnload() {window.onbeforeunload = function(){ return '将丢
 
 ﻿<script type="text/javascript" src="/SHCS/Public/Js/Ajax.js"></script>
 <script>
-
-    var tokenLogin = "<?php echo ($tokenLogin); ?>";
-    alert(tokenLogin)
+var tokenLogin = "<?php echo ($tokenLogin); ?>";
 window.onload = function() 
 {
 //以下是拼图的效果

@@ -496,3 +496,15 @@ INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
 INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
 ERR: 无法加载模块:Public
 
+[ 2017-02-25T22:07:48+08:00 ] 127.0.0.1 /SHCS/Public/oriAnswer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000892s ]
+ERR: 无法加载模块:Public
+
+[ 2017-02-25T22:07:48+08:00 ] 127.0.0.1 /SHCS/Public/oriAnswer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000920s ]
+ERR: 无法加载模块:Public
+

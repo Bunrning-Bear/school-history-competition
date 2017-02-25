@@ -9,7 +9,6 @@
 		public function index()
 		{
             session('tokenLogin',NULL);
-
 			srand(microtime(true) * 1000);
 			$pNumber = rand(1,$this->pictureNumber);
 			$left = rand(0,$this->pictureRangeMax);

@@ -4,41 +4,107 @@ use Think\Controller;
 class QuestionController extends Controller
 {
 
-    protected $numSelectMax = 10;
-    protected  $numSelect = 3;
-    protected  $numJudgeMax = 10;
-    protected $numJudge = 10;
-    protected $userNumber = 3;//学生总数
-    protected $questionCount = 6;
+    protected $numSelectMax=20;
+    protected $numSelect=20;
+    protected $numJudgeMax=20;
+    protected $numJudge=20;
+    protected $userNumber=3;//学生总数
+    protected $questionCount=6;
+    // 
+    protected $typeAmount = array(20,20);
+    protected $questionAmount = array(20,20);
     //获取用户题目随机序列;
     public function toRandom()
     {
+        $question = M('questions');
+
+        $this->getQueueByType($resultQueue, $resultAnswer,$question,1);
         //只有管理员用户才有权限进入该控制器；
-    for($i = 1 ; $i <= $this->userNumber ; $i++)
-        { 
-            $user = M('user');
-            $question = M('questions');
+        $user = M('user');
+        $user_id_list = $user->field('stuid')->select();
+        // dump($user_id_list);
+        $length = count($user_id_list);
+        for($i = 0 ; $i < $length ; $i++)
+        {
+            $id = $user_id_list[$i]['stuid'];
             $resultQueue = '';
             $resultAnswer = '';
-            $this->getQueue($this->numSelect,1,$this->numSelectMax, $resultQueue, $resultAnswer,$question);
-            $this->getQueue($this->numJudge,1 + $this->numSelectMax, $this->numJudgeMax+ $this->numSelectMax,$resultQueue,$resultAnswer,$question);
+            $this->getQueueByType($resultQueue, $resultAnswer,$question,1);
+            $this->getQueueByType($resultQueue, $resultAnswer,$question,0);
             $save = array(
-                'stuid' => $i,
+                'stuid' => $id,
                 'qqueue' =>$resultQueue,
                 'aqueue' =>$resultAnswer,
                 'mark' =>"-1",
                 'time'=>-1
             );
-            dump($save);
+            // dump($save);
             if($user->save($save))
             {
-                echo $i."ID 的学生随机序列生成成功</br>";
+                echo "ID".$id."的学生随机序列生成成功</br>";
                 $result = $user->where($save)->find();
-                dump($result);
+                dump($save);
             }
-            dump("i is ".$i);
+            else{
+                 echo "ID".$id." 的学生随机序列生成失败</br>";
+            }
         }
-        echo "数据初始化完成</br>";
+    //     { 
+    //         
+    //         $question = M('questions');
+    //         $resultQueue = '';
+    //         $resultAnswer = '';
+    //         $this->getQueue($this->numSelect,1,$this->numSelectMax, $resultQueue, $resultAnswer,$question);
+    //         $this->getQueue($this->numJudge,1 + $this->numSelectMax, $this->numJudgeMax+ $this->numSelectMax,$resultQueue,$resultAnswer,$question);
+    //         $save = array(
+    //             'stuid' => $i,
+    //             'qqueue' =>$resultQueue,
+    //             'aqueue' =>$resultAnswer,
+    //             'mark' =>"-1",
+    //             'time'=>-1
+    //         );
+    //         dump($save);
+    //         if($user->save($save))
+    //         {
+    //             echo $i."ID 的学生随机序列生成成功</br>";
+    //             $result = $user->where($save)->find();
+    //             dump($result);
+    //         }
+    //         dump("i is ".$i);
+    //     }
+    //     echo "数据初始化完成</br>";
+    }
+
+    protected function getQueueByType(&$resultQueue,&$resultAnswer,$question,$type)
+    {
+        $where['type'] = $type;
+        $result = $question -> where($where)->field('q_id,answer')->select();
+        //dump($result);
+        $amount = $this->questionAmount[$type];
+        // 生成有序序列
+        $numbers = range (0,$this->typeAmount[$type]-1); 
+        //打乱数组
+        shuffle ($numbers); 
+        // 取数组中的其中一段
+        $resultindex = array_slice($numbers,0,$amount);        
+        for($j = 0 ; $j <$amount ; $j++)
+        {
+            //dump($resultindex[$j]);
+            $result_unit = $result[$resultindex[$j]];
+            $resultQueue = $resultQueue."{$result_unit ['q_id']}"."_";
+            $resultAnswer = $resultAnswer."{$result_unit ['answer']}"."_";
+            //dump($resultQueue);
+            
+            // $where = array(
+            //     "q_id" =>$result[$j],
+            // );
+            // //   dump($where);
+            // $resultArray = $question -> where($where)->field('answer')->find();
+            // $resultAnswer = $resultAnswer.$resultArray['answer'];
+        }
+        // dump("queue is :".$resultQueue);
+        // dump("answer is :".$resultAnswer);
+           
     }
 
 
@@ -96,7 +162,7 @@ class QuestionController extends Controller
         }
     }
 
-    public function getQuestion ($qQueue,&$question,&$chA,&$chB,&$chC,&$chD)
+    public function getQuestion($qQueue,&$question,&$chA,&$chB,&$chC,&$chD)
     {
      //   $qQueue = "8_11_15_19_16_5_4_14_1_9_17_7_6_18_20_2_3_10_12_13_33_27_24_31_34_28_22_21_32_39_35_37_38_25_36_29_30_23_26_40_";
         $count = 1;
