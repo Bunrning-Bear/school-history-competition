@@ -1,1 +1,0 @@
-a:9:{i:0;s:4:"q_id";i:1;s:8:"question";i:2;s:6:"answer";i:3;s:1:"a";i:4;s:1:"b";i:5;s:1:"c";i:6;s:1:"d";s:3:"_pk";s:4:"q_id";s:5:"_type";a:7:{s:4:"q_id";s:7:"int(11)";s:8:"question";s:12:"varchar(255)";s:6:"answer";s:10:"varchar(1)";s:1:"a";s:12:"varchar(255)";s:1:"b";s:12:"varchar(255)";s:1:"c";s:12:"varchar(255)";s:1:"d";s:12:"varchar(255)";}}

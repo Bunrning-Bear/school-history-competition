@@ -13,6 +13,7 @@ class LoginController extends Controller
         if(I("session.tokenLogin")==I("post.tokenLogin"))
         {
             session("tokenLogin",time());//判断语句结束后，马上改变令牌
+            // 赋值tokenlogin，最后返回给客户端，保证下一次同步
             $toReturn['tokenLogin'] = I("session.tokenLogin");
             $user = D('User');
             if (I("session.verifyResult") == 1) //否则未不经过验证码而登录
@@ -40,8 +41,9 @@ class LoginController extends Controller
                             // $toReturn['output'] = urlencode("匹配成功3");
                             if ($hasLogin != NULL) {//该用户重复登录过
                                 $toReturn['result'] = 2;
-                                $toReturn['tokenLogin'] = I("post.tokenLogin");
-                                $toReturn['output']=urlencode("重复登陆");
+                                //todo?? what's this??
+                                // $toReturn['tokenLogin'] = I("post.tokenLogin");
+                                $toReturn['output']=$hasLogin;
                             } else {
                                 $toReturn['result'] = 1;
                                 F($find['stuid'], session_id());
@@ -159,7 +161,7 @@ public function judgeStatue()
 */
     $this->ajaxReturn($toReturn);
 }
-
+    //注销登录
     public function Logoff()
     {
         F(session("stuID"),NULL);
@@ -168,6 +170,6 @@ public function judgeStatue()
         $this->redirect("Check/index");
     }
 }
-//注销登录
+
 
 ?>

@@ -8,9 +8,8 @@ class QuestionController extends Controller
     protected  $numSelect = 3;
     protected  $numJudgeMax = 10;
     protected $numJudge = 10;
-    protected $userNumber = 1;//学生总数
+    protected $userNumber = 3;//学生总数
     protected $questionCount = 6;
-
     //获取用户题目随机序列;
     public function toRandom()
     {
@@ -27,13 +26,17 @@ class QuestionController extends Controller
                 'stuid' => $i,
                 'qqueue' =>$resultQueue,
                 'aqueue' =>$resultAnswer,
+                'mark' =>"-1",
+                'time'=>-1
             );
+            dump($save);
             if($user->save($save))
             {
                 echo $i."ID 的学生随机序列生成成功</br>";
                 $result = $user->where($save)->find();
-               dump($result);
+                dump($result);
             }
+            dump("i is ".$i);
         }
         echo "数据初始化完成</br>";
     }

@@ -156,7 +156,8 @@ function RunOnBeforeUnload() {window.onbeforeunload = function(){ return '将丢
 ﻿<script type="text/javascript" src="/SHCS/Public/Js/Ajax.js"></script>
 <script>
 
-    var tokenLogin = "<?php echo (session('token')); ?>";
+    var tokenLogin = "<?php echo ($tokenLogin); ?>";
+    alert(tokenLogin)
 window.onload = function() 
 {
 //以下是拼图的效果
@@ -417,10 +418,12 @@ window.onload = function()
         {
         	alert(JSON.stringify(dataJ));
             eval("var data = " + dataJ);
-            alert("here data is :"+dataJ);
+
             data['output'] = decodeURI(data['output']);
+            alert("here data is :"+data['output']);
             judgeLogin = data['result'];
             // token = data['token'];
+
             tokenLogin = data['tokenLogin'];
             var judgeContinue = 0;
             if (judgeLogin == 0)
@@ -431,7 +434,7 @@ window.onload = function()
                 oFalse.style.display = "block";
                 shake(oLoginB);
             }
-            else if (judgeLogin == 2)
+            else if (judgeLogin == 2)	
             {//成功登录，开始答题
                 if(confirm("上次未正常注销，如果您正在答题，继续登录讲导致上次打开的页面无法提交成绩,是否继续登录"))
                 {

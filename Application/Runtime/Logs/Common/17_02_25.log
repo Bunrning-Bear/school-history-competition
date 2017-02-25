@@ -286,3 +286,213 @@ INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
 INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
 ERR: 无法加载模块:Public
 
+[ 2017-02-25T15:14:20+08:00 ] 127.0.0.1 /SHCS/Public/oriAnswer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000587s ]
+ERR: 无法加载模块:Public
+
+[ 2017-02-25T15:14:36+08:00 ] 223.3.158.121 /SHCS/Public/oriAnswer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001032s ]
+ERR: 无法加载模块:Public
+
+[ 2017-02-25T15:18:23+08:00 ] 127.0.0.1 /SHCS/Question/toRandom
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001452s ]
+ERR: 无法加载模块:Question
+
+[ 2017-02-25T15:26:30+08:00 ] 223.3.158.121 /SHCS/Public/oriAnswer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000927s ]
+ERR: 无法加载模块:Public
+
+[ 2017-02-25T15:29:28+08:00 ] 223.3.158.121 /SHCS/Public/oriAnswer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000781s ]
+ERR: 无法加载模块:Public
+
+[ 2017-02-25T15:29:33+08:00 ] 223.3.158.121 /SHCS/Public/oriAnswer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000585s ]
+ERR: 无法加载模块:Public
+
+[ 2017-02-25T15:31:11+08:00 ] 223.3.158.121 /SHCS/Public/oriAnswer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001040s ]
+ERR: 无法加载模块:Public
+
+[ 2017-02-25T15:32:12+08:00 ] 223.3.158.121 /SHCS/Public/oriAnswer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001486s ]
+ERR: 无法加载模块:Public
+
+[ 2017-02-25T15:33:11+08:00 ] 223.3.158.121 /SHCS/Public/oriAnswer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001035s ]
+ERR: 无法加载模块:Public
+
+[ 2017-02-25T15:34:09+08:00 ] 127.0.0.1 /SHCS/Public/oriAnswer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000704s ]
+ERR: 无法加载模块:Public
+
+[ 2017-02-25T15:35:02+08:00 ] 127.0.0.1 /SHCS/Public/oriAnswer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+ERR: 无法加载模块:Public
+
+[ 2017-02-25T15:35:19+08:00 ] 223.3.158.121 /SHCS/Public/oriAnswer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001052s ]
+ERR: 无法加载模块:Public
+
+[ 2017-02-25T15:35:28+08:00 ] 127.0.0.1 /SHCS/Public/oriAnswer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000409s ]
+ERR: 无法加载模块:Public
+
+[ 2017-02-25T15:39:28+08:00 ] 223.3.158.121 /SHCS/Public/oriAnswer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001071s ]
+ERR: 无法加载模块:Public
+
+[ 2017-02-25T16:58:52+08:00 ] 127.0.0.1 /SHCS/Public/oriAnswer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000169s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002089s ]
+ERR: 无法加载模块:Public
+
+[ 2017-02-25T16:58:53+08:00 ] 127.0.0.1 /SHCS/Public/oriAnswer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001352s ]
+ERR: 无法加载模块:Public
+
+[ 2017-02-25T17:05:40+08:00 ] 127.0.0.1 /SHCS/Public/oriAnswer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002814s ]
+ERR: 无法加载模块:Public
+
+[ 2017-02-25T17:05:41+08:00 ] 127.0.0.1 /SHCS/Public/oriAnswer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000931s ]
+ERR: 无法加载模块:Public
+
+[ 2017-02-25T17:17:38+08:00 ] 127.0.0.1 /SHCS/Public/oriAnswer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001818s ]
+ERR: 无法加载模块:Public
+
+[ 2017-02-25T17:17:38+08:00 ] 127.0.0.1 /SHCS/Public/oriAnswer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001328s ]
+ERR: 无法加载模块:Public
+
+[ 2017-02-25T17:18:37+08:00 ] 127.0.0.1 /SHCS/Public/oriAnswer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001759s ]
+ERR: 无法加载模块:Public
+
+[ 2017-02-25T17:18:37+08:00 ] 127.0.0.1 /SHCS/Public/oriAnswer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001113s ]
+ERR: 无法加载模块:Public
+
+[ 2017-02-25T17:18:40+08:00 ] 127.0.0.1 /SHCS/Public/oriAnswer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001424s ]
+ERR: 无法加载模块:Public
+
+[ 2017-02-25T17:18:40+08:00 ] 127.0.0.1 /SHCS/Public/oriAnswer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001348s ]
+ERR: 无法加载模块:Public
+
+[ 2017-02-25T17:25:05+08:00 ] 127.0.0.1 /SHCS/Public/oriAnswer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001702s ]
+ERR: 无法加载模块:Public
+
+[ 2017-02-25T17:25:05+08:00 ] 127.0.0.1 /SHCS/Public/oriAnswer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001505s ]
+ERR: 无法加载模块:Public
+
+[ 2017-02-25T17:27:38+08:00 ] 127.0.0.1 /SHCS/Public/oriAnswer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001579s ]
+ERR: 无法加载模块:Public
+
+[ 2017-02-25T17:27:38+08:00 ] 127.0.0.1 /SHCS/Public/oriAnswer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001031s ]
+ERR: 无法加载模块:Public
+
+[ 2017-02-25T17:40:03+08:00 ] 127.0.0.1 /SHCS/Public/oriAnswer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002759s ]
+ERR: 无法加载模块:Public
+
+[ 2017-02-25T17:45:38+08:00 ] 127.0.0.1 /SHCS/Public/oriAnswer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001549s ]
+ERR: 无法加载模块:Public
+
+[ 2017-02-25T17:45:38+08:00 ] 127.0.0.1 /SHCS/Public/oriAnswer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001507s ]
+ERR: 无法加载模块:Public
+
+[ 2017-02-25T19:04:11+08:00 ] 127.0.0.1 /SHCS/Admin/initial_time
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015485s ]
+ERR: 无法加载模块:Admin
+
+[ 2017-02-25T19:18:57+08:00 ] 127.0.0.1 /SHCS/Public/oriAnswer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001144s ]
+ERR: 无法加载模块:Public
+
+[ 2017-02-25T19:20:00+08:00 ] 127.0.0.1 /SHCS/Public/oriAnswer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000727s ]
+ERR: 无法加载模块:Public
+
+[ 2017-02-25T19:20:00+08:00 ] 127.0.0.1 /SHCS/Public/oriAnswer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+ERR: 无法加载模块:Public
+

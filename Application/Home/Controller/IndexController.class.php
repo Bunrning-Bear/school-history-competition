@@ -7,8 +7,9 @@ class IndexController extends Controller {
 	private $prefixURL = './Public/check/';//验证码图片储存位置
 	public function index()
 	{
-        session('tokenLogin',NULL);
-
+		$token = time();
+        session('tokenLogin',$token);
+		$toAssign['tokenLogin'] = $token;
 		srand(microtime(true) * 1000);
 		$pNumber = rand(1,$this->pictureNumber);
 		$left = rand(0,$this->pictureRangeMax);

@@ -1,1 +1,0 @@
-a:8:{i:0;s:5:"stuID";i:1;s:6:"xuehao";i:2;s:8:"yikatong";i:3;s:6:"qQueue";i:4;s:6:"aQueue";i:5;s:4:"mark";i:6;s:9:"hasFinish";s:5:"_type";a:7:{s:5:"stuID";s:8:"int(200)";s:6:"xuehao";s:8:"char(10)";s:8:"yikatong";s:7:"int(10)";s:6:"qQueue";s:7:"char(5)";s:6:"aQueue";s:7:"char(5)";s:4:"mark";s:6:"int(3)";s:9:"hasFinish";s:10:"tinyint(1)";}}
