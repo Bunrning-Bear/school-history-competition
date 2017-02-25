@@ -1,219 +1,172 @@
-<script type="text/javascript">
-window.onload = function()
-{
-	//以下是
-	rate = 0.80;
-	//以下是拼图的效果
-	//URL 地址
-	var imagine1 = "__CHECK__/check_<{$pNumber}>.jpg";
-	var imagine2 = null;
-	var oWrap = document.getElementById("wrapper");
-	var oBox = document.getElementById("box");
-	var w = document.documentElement.clientWidth;
-	var oContainer2 = document.getElementById("container2");
-	 
-	//oBox.innerHTML = w;
-	oWrap.style.left =(((w - 1024) /2)/rate) + "px";
-	window.onresize=function()
-	{
-		var oWrap = document.getElementById("box");
-		var w = document.documentElement.clientWidth;
-		//oBox.innerHTML = w;
-		oWrap.style.left =(((w - 1024) /2)/rate) + "px";
-	}
-	var judge3 = 1;
-	//begin();
-	var choice = 5;
-	var oCon = document.getElementById('container');
-	var oCon2 = document.getElementById('container2');
-	var oDraw = document.getElementById('draw');
-	var oChoice = document.getElementById('choice');
-	
-	//给前端的图片位置; 
-	var choiceLeft = 20;
-	var choiceTop = 20;
-	
-	if(oDraw.setCapture)
-	{
-		oCon2.runtimeStyle.background = imagine1;
-		oDraw.runtimeStyle.background = imagine2;
-	}
-	else
-	{
-		oCon2.style.background = imagine1;
-		oDraw.style.background = imagine2;
-	}
-	
-	oChoice.style.left = choiceLeft + "px";
-	oChoice.style.top = choiceTop + "px";
-
-	if (oDraw.setCapture)//此语句用来适配ie6
-	{
-		oDraw.onmousedown = function(ev)
-		{
-			var oEvent = event||ev;
-			var y =document.documentElement.scrollTop||document.body.scrollTop;
-			disx = oEvent.clientX - oDraw.offsetLeft;
-			disy = oEvent.clientY - oDraw.offsetTop;
-
-
-			oDraw.onmousemove = function(ev)
-			{
-				var oEvent = ev||event;
-				oDraw.style.left = (oEvent.clientX - disx ) + "px";
-				oDraw.style.top = (oEvent.clientY - disy )+"px";
-				
-				oDraw.onmouseup = function(ev)
-				{
-					var oEvent = ev||event;
-					/*alert(parseInt(oDraw.style.left));
-					alert(parseInt(oDraw.style.top));
-*/
-					oDraw.onmousemove = null;
-					oDraw.onmouseup = null;
-					if( judge3 == 1 )
-					{
-						begin();
-						oCon.runtimeStyle.display="none";
-					}
-					else
-					{
-						oDraw.style.left = "68px";
-						oDraw.style.top = "68px";
-					}
-
-					oDraw.releaseCapture();
-				}
-			}
-			oDraw.setCapture();//要放在想要捕获的事件后面
-		}
-	}
-	else
-	{
-		oDraw.onmousedown = function(ev)
-		{
-			var oEvent = event||ev;
-			var y =document.documentElement.scrollTop||document.body.scrollTop;
-			disx = oEvent.clientX - oDraw.offsetLeft;
-			disy = oEvent.clientY - oDraw.offsetTop;
-
-
-			oDraw.onmousemove = function(ev)
-			{
-				var oEvent = ev||event;
-				oDraw.style.left = (oEvent.clientX - disx ) + "px";
-				oDraw.style.top = (oEvent.clientY - disy )+"px";
-				
-				oDraw.onmouseup = function(ev)
-				{
-					var oEvent = ev||event;
-					/*alert(parseInt(oDraw.style.left));
-					alert(parseInt(oDraw.style.top));
-*/
-					oDraw.onmousemove = null;
-					oDraw.onmouseup = null;
-					if( judge3 == 1 )
-					{
-						begin();
-						oCon.style.display="none";
-					}
-					else
-					{
-						oDraw.style.left = "68px";
-						oDraw.style.top = "68px";
-					}
-				}
-				
-				return false;
-			}
-		}
-	}
-	//以上是拼图的效果
-</script>
-
 <!doctype html>
 <html>
 <head>
-<meta charset="UTF-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Untitled Document</title>
+
 <import type='css' file='Css.AllCss' />
 </head>
-<import type='js' file='Js.AllJs' /> 
+<script>
+var questionnumber = 1;//存储题号的变量,可能会在有些环境下变为字符串类型
+    //要注意装有题号的div数组的下标和题号的区别，二者差一
+//以下是一个一开始div的动画函数
+var judgeArr = new Array(41);
+var judgeLogin = 1;//判断是否可以登录
+var judge3 = 1;//判断验证码是否正确
+var judgeCount = 0;
+var Question = new Array(41);//从1开始存；
+var ChA = new Array(21);
+var ChB = new Array(21);
+var ChC = new Array(21);
+var ChD = new Array(21);
+var UsedTime ;
+var timeUsed;
+var postx = 0;
+var posty = 0;
+var False = "";
+var UserName = "";
+var PassWord = "";
+var Student = new Array(41);//答案
+var grade = 100;
+//var token = "<{$Think.session.token}>";
+
+//以下是初始化
+for(var i = 1 ; i <= 20 ;i++)
+{
+    Student[i] = "E";
+}
+for(var i = 21 ; i <= 39 ; i++)
+{
+    Student[i] = "2";
+}
+for(var i  =0 ; i < 41 ; i++ )
+{
+    judgeArr[i] = 0;
+}
+
+for(var i = 1 ; i < 41 ; i++ )
+{
+    Question[i] = "第" + i + "题没有获取到";
+}
+
+for(var i = 1 ; i < 21 ; i++ )
+{
+    ChA[i] = "A";
+    ChB[i] = "B";
+    ChC[i] = "C";
+    ChD[i] = "D";
+}
+function RunOnBeforeUnload() {window.onbeforeunload = function(){ return '将丢失未保存的数据!';} }
+</script>
+<import type = "js" file = "oriAnswer"/>
+<import type = "js" file = "Js.Ajax"/>
+<import type='js' file='Js.getPanduan' />
+<import type='js' file='Js.getQuestion' />
+<!--import type='js' file='Js.end' /-->
+<include file = "Index/end" />
+<import type='js' file='Js.gentrans' />
+<import type='js' file='Js.transon' />
+<import type='js' file='Js.transback' />
+<import type='js' file='Js.shake' />
+<import type='js' file='Js.arrange' />
+<import type='js' file='Js.translatemove' />
+<import type='js' file='Js.begin' />
+<include file ="Index/map"  />
+<include file = "Index/mainJs" />
+<import type='js' file='Js.time' />
+
 <body>
 <div id="wrapper">
-<div id="box">
-    <div id="login">
-        <div id="line"></div>
-        <div id="false"></div>
-        <div id="title">校史知识竞赛</div>
-        <div id="photo"></div>
-        <div id="username">用户名
-            <input type="text" id="inusername" >
-        </div>
-        <div id="password">密码
-            <input type="text" id="inpassword" >
-        </div>
-        <div id="logbutton">登陆</div>
-        <div id="help">?</div>
-        <div id="warning"></div>
+  <div id="box">
+      <div id="login">
+          <div id="studentNote">
+              学生须知：<br>
+              1.推荐使用分辨率在720p的计算机浏览此网页;<br>
+              2.如果网页大小不合适可以通过ctrl+或ctrl-来获得最佳效果;<br>
+              3.一共45分钟，中途退出答题，计时不会停止;<br>
+              4.一共20到选择题和20道判断题；<br>
+              5.用户名为学号，密码为一卡通号;
+          </div>
+          <div id="line"></div>
+          <div id="false"></div>
+          <div id="photo"></div>
+          <div id="username">用户名
+              <input type="text" id="inusername">
+          </div>
+          <div id="password">密码
+              <input type="password" id="inpassword">
+          </div>
+          <div id="logbutton">登陆</div>
+          <div id="help">?</div>
+          <div id="warning"></div>
+      </div>
+  
+      <div id="question" oncontextmenu="return false">
+          <div id="next" onselectstart="return false">下一题</div>
+          <div id="last" onselectstart="return false">上一题</div>
+          <div id="count">
+              <div id="pagedown">←</div>
+              <div id="pageup">→</div>
+              <div id="number" onselectstart="return false">
+                  <div class="numberzone" style="background:#999999">1</div>
+                  <div class="numberzone">2</div>
+                  <div class="numberzone">3</div>
+                  <div class="numberzone">4</div>
+                  <div class="numberzone">5</div>
+                  <div class="numberzone">6</div>
+                  <div class="numberzone">7</div>
+                  <div class="numberzone">8</div>
+                  <div class="numberzone">9</div>
+                  <div class="numberzone">10</div>
+                  <div class="numberzone">11</div>
+                  <div class="numberzone">12</div>
+                  <div class="numberzone">13</div>
+                  <div class="numberzone">14</div>
+                  <div class="numberzone">15</div>
+                  <div class="numberzone">16</div>
+                  <div class="numberzone">17</div>
+                  <div class="numberzone">18</div>
+                  <div class="numberzone">19</div>
+                  <div class="numberzone">20</div>
+              </div>
+          </div>
+          <div id="Qblock" onselectstart="return false">这个是题目</div>
+          <div id="Ans">
+            <div id="AnsA" class="a" onselectstart="return false">这个是选项A</div>
+            <div id="AnsB" class="b" onselectstart="return false">这个是选项B</div>
+            <div id="AnsC" class="c" onselectstart="return false">这个是选项C</div>
+            <div id="AnsD" class="d" onselectstart="return false">这个是选项D</div>
+          </div>
+          <div id="panduanti" onselectstart="return false">
+              <div id="right" class="a" onselectstart="return false">√</div>
+              <div id="wrong" class="b" onselectstart="return false">×</div>
+          </div>
+          <div id="divdown" onselectstart="return false"></div>
+          <div id="note"></div>
+      </div>  
+  </div>
+  <div id="door1">
+      <div id="title">校史知识竞赛</div>
+  </div>
+  <div id="door2"></div>
+  <div id="container">
+          <!--<div class="div1" style="background:#000"></div>-->
+          <div class="div1" id="draw">
+              <img src = '__CHECK__/<{$cutURL}>' />
+          </div>
+          <div id="container2">
+              <div class="div2" id="choice"></div>
+              <img src = '__CHECK__/<{$coverURL}>'/>
+          </div>
+  </div>
+  <div id="grade" style="display:none">
+    <div id="show">
+        <div id="yougrade">你的成绩是：</div>
+        <div id="gradenumber"></div>
+        <div id="zhuxiao"></div>
+        <div id="exit">注销登录</div>
     </div>
-
-    <div id="question">
-    	<div id="next">下一题</div>
-    	<div id="last">上一题</div>
-    	<div id="count">
-            <div id="pagedown">←</div>
-            <div id="pageup">→</div>
-            <div id="number">
-                <div class="numberzone" style="background:#999999">1</div>
-                <div class="numberzone">2</div>
-                <div class="numberzone">3</div>
-                <div class="numberzone">4</div>
-                <div class="numberzone">5</div>
-                <div class="numberzone">6</div>
-                <div class="numberzone">7</div>
-                <div class="numberzone">8</div>
-                <div class="numberzone">9</div>
-                <div class="numberzone">10</div>
-                <div class="numberzone">11</div>
-                <div class="numberzone">12</div>
-                <div class="numberzone">13</div>
-                <div class="numberzone">14</div>
-                <div class="numberzone">15</div>
-                <div class="numberzone">16</div>
-                <div class="numberzone">17</div>
-                <div class="numberzone">18</div>
-                <div class="numberzone">19</div>
-                <div class="numberzone">20</div>
-            </div>
-    	</div>
-        <div id="Qblock">这个是题目</div>
-        <div id="Ans">
-            <div id="AnsA">这个是选项A</div>
-            <div id="AnsB">这个是选项B</div>
-            <div id="AnsC">这个是选项C</div>
-            <div id="AnsD">这个是选项D</div>
-        </div>
-        <div id="panduanti">
-            <div id="right">√</div>
-            <div id="wrong">×</div>
-		</div>
-        <div id="divdown"></div>
-        <div id="divdown1"></div>
-        <div id="note"></div>
-    </div>
-    <div id="container">
-        <!--<div class="div1" style="background:#000"></div>-->
-        <div class="div1" id="draw"></div>
-        <div id="container2" padding:0px; >
-            <div class="div2" id="choice">
-			<img src = "__CHECK__/<{$coverURL}>" />
-            </div>
-        </div>
-    </div>
-    <div id="door1"></div>
-    <div id="door2"></div>
-</div>
+  </div>
 </div>
 </body>
 </html>

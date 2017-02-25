@@ -211,6 +211,10 @@ abstract class Controller {
         if(empty($type)) $type  =   C('DEFAULT_AJAX_RETURN');
         switch (strtoupper($type)){
             case 'JSON' :
+                // 允许json数据格式客户端
+                header('Access-Control-Allow-Origin: *');
+                header("Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept");
+                header('Access-Control-Allow-Methods: GET, POST, PUT');
                 // 返回JSON数据格式到客户端 包含状态信息
                 header('Content-Type:application/json; charset=utf-8');
                 exit(json_encode($data,$json_option));

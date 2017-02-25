@@ -2,49 +2,40 @@
 namespace Home\Controller;
 use Think\Controller;
 class IndexController extends Controller {
-    public function index(){
-    //	$mysql =new \Home\Model\IdModel();
-   		//$mysql =new Model(); --->无法使用？
-   		$mysql = M('id');
-   	//	$mysql =new \Think\Model();
-/*		$result = $mysql->find();
-		//参数并没有用？？
-		var_dump($result);
-		echo "<br/>";
-		$result = $mysql->where('xuehao = 71114223 and yikatong = 223')->getfield('mark');
-		var_dump($result);
-		$mysql->xuehao = "71114231";
-		$mysql->yikatong ="230";
-		$mysql -> qQueue = "32145";
-		$mysql -> aQueue ="DDDDD";
-		echo $mysql ->add();	
-		//返回值是新增ID号
+	private $pictureNumber = 2;//最大图片张数
+	private $pictureRangeMax = 133;//最大图片像素的三分之二
+	private $prefixURL = './Public/check/';//验证码图片储存位置
+	public function index()
+	{
+        session('tokenLogin',NULL);
 
-*/
-		//$data['xuehao'] = '71114223';
-	//	$data['mark'] =97;
-	//	echo $mysql->where('mark = 99')->save($data);
-		$this -> display();
-	    }
+		srand(microtime(true) * 1000);
+		$pNumber = rand(1,$this->pictureNumber);
+		$left = rand(0,$this->pictureRangeMax);
+		$up = rand (0,$this->pictureRangeMax);
+		//生成随机数.
 
-	    public function search()
-	    {
-	    	$mysql =M('id');
-	    	$toSearch['yikatong'] = $_POST['yikatong'];
-	    	$toSearch['xuehao'] =$_POST['xuehao'];
-	    	$arr = $mysql ->where($toSearch)->select();
-	    	var_dump($arr);
-	    	$arr = $mysql -> order(array("xuehao"=>"asc","mark"=>"asc"))->limit("3,3")->field("mark as 成绩,xuehao as 学号")->select();
-	    	$this ->show("<br></br>");
-	    	dump($arr);
-	    	$this->assign('result',$arr);
+		$data = md5($pNumber.$left.$up);
+		$toAssign['cutURL'] = 'tmp/cut'.$data.'.jpg';
+		$toAssign['coverURL'] = 'tmp/cover'.$data.'.jpg';
 
-	   // 	$this->display('index');//否则会返回“search.html模板”
-	    	//不能用isset 来作为POST是否被设置的条件，即使你没有填号码
-	    	//所以用 POST != NULL
-	    }
+		if(!is_file($this->prefixURL.'tmp/cut'.$data.'.jpg'))
+        {
+			$image = new\Think\Image();
+			$imageURL =$this->prefixURL.'check_'.$pNumber.'.jpg';		
+			$image->open($imageURL);
+			$image->crop(70,70,$left,$up)->save($this->prefixURL.$toAssign['cutURL']);
+			$image ->open($imageURL) ->water('./Public/check/cover.jpg',array($left,$up),100)->save($this->prefixURL.$toAssign['coverURL']);
+			$this->assign('test',$imageURL);	
+		}
+        session('left',$left);
+        session('up',$up);
+		$this ->assign($toAssign);
 
-
+		//$this -> display();
+		//一小时后删除图像
+		$this->display();
+	}
 }
 
 

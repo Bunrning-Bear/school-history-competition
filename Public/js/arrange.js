@@ -6,7 +6,7 @@ function arrange()
 	var aNumberzone = oNumber.getElementsByTagName('div');
 	for( var i = 0 ; i < aNumberzone.length; i++ )
 	{
-		aNumberzone[i].style.left = (34.5*i+50)+"px";
+		aNumberzone[i].style.left = (34.5*i+52)+"px";
 		aNumberzone[i].onclick = function()
 		{
 			for(var j = 0 ; j < aNumberzone.length; j++)

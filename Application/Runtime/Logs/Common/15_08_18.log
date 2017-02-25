@@ -1,0 +1,18 @@
+[ 2015-08-18T20:02:22+08:00 ] 127.0.0.1 /xiaoshi/H
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000549s ]
+ERR: 无法加载模块:H
+
+[ 2015-08-18T20:02:45+08:00 ] 127.0.0.1 /xiaoshi/H
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000822s ]
+ERR: 无法加载模块:H
+
+[ 2015-08-18T20:04:01+08:00 ] 127.0.0.1 /xiaoshi/Check/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000583s ]
+ERR: 无法加载模块:Check
+

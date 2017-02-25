@@ -1,0 +1,646 @@
+﻿<import type = "js" file = "Js.Ajax"/>
+<script>
+    var tokenLogin = "<{$Think.session.token}>";
+    window.onload = function()
+    {
+//以下是拼图的效果
+        var imagine1 = null;
+        var imagine2 = null;
+        var oWrap = document.getElementById("wrapper");
+        var oBox = document.getElementById("box");
+        var w = document.documentElement.clientWidth;
+        var oContainer2 = document.getElementById("container2");
+
+        oWrap.style.left = ((w - 800) / 2) + "px";
+        window.onresize = function ()
+        {
+            var oWrap = document.getElementById("wrapper");
+            var w = document.documentElement.clientWidth;
+//oBox.innerHTML = w;
+            oWrap.style.left = ((w - 800) / 2) + "px";
+        }
+
+//begin();
+        var choice = 5;
+        var oCon = document.getElementById('container');
+        var oCon2 = document.getElementById('container2');
+        var oDraw = document.getElementById('draw');
+        var oChoice = document.getElementById('choice');
+        var choiceLeft = 20;
+        var choiceTop = 20;
+
+        if (oDraw.setCapture) {
+            /*oCon2.runtimeStyle.background = imagine1;
+             oDraw.runtimeStyle.background = imagine2;*/
+        }
+        else {
+            oCon2.
+                    style.background = imagine1;
+            oDraw.
+                    style.background = imagine2;
+        }
+        oChoice.style.left = choiceLeft + "px";
+        oChoice.style.top = choiceTop + "px";
+
+        if (oDraw.setCapture)//此语句用来适配ie6
+        {
+            oDraw.onmousedown = function(ev)
+            {
+                var oEvent = event||ev;
+                var y =document.documentElement.scrollTop||document.body.scrollTop;
+                disx = oEvent.clientX - oDraw.offsetLeft;
+                disy = oEvent.clientY - oDraw.offsetTop;
+
+
+                document.onmousemove = function(ev)
+                {
+                    var oEvent = ev||event;
+                    oDraw.style.left = (oEvent.clientX - disx ) + "px";
+                    oDraw.style.top = (oEvent.clientY - disy )+"px";
+
+                    oDraw.onmouseup = function(ev)
+                    {
+                        var oEvent = ev||event;
+                        /*alert(parseInt(oDraw.style.left));
+                         alert(parseInt(oDraw.style.top));
+                         */
+                        postx = parseInt(oDraw.style.left) - 204;
+                        posty = parseInt(oDraw.style.top);
+
+                        alert(postx);
+                        alert(posty);
+                        ajax = Ajax();
+
+                        ajax.post('__MODULE__/Check/toCheck',"postX="+postx+"&postY="+posty,function(data)
+                        {
+                            judge3 = data;
+                            judge3 = 1;
+                            if (judge3 == 1)
+                            {
+                                begin();
+                                oCon.runtimeStyle.display = "none";
+                            }
+                            else
+                            {
+                                oDraw.style.left = "68px";
+                                oDraw.style.top = "68px";
+                            }
+
+                            oDraw.releaseCapture();
+
+                            document.onmousemove = null;
+                            oDraw.onmouseup = null;
+                        });
+                    }
+
+                }
+                oDraw.setCapture();//要放在想要捕获的事件后面
+            }
+        }
+        else
+        {
+            oDraw.onmousedown = function (ev)
+            {
+                var oEvent = event || ev;
+                var  y = document.documentElement.scrollTop || document.body.scrollTop;
+                disx = oEvent.clientX - oDraw.offsetLeft;
+                disy = oEvent.clientY - oDraw.offsetTop;
+
+
+                document.onmousemove =function (ev)
+                {
+                    var oEvent = ev || event;
+                    oDraw.style.left = (oEvent.clientX - disx ) + "px";
+                    oDraw.style.top = (oEvent.clientY - disy ) + "px";
+
+                    oDraw.onmouseup = function (ev)
+                    {
+                        var oEvent = ev || event;
+                        /*alert(parseInt(oDraw.style.left));
+                         alert(parseInt(oDraw.style.top));
+                         */
+                        postx = parseInt(
+                                oDraw.style.left) - 204;
+                        posty =
+                                parseInt(oDraw.style.top);
+
+                        ajax = Ajax();
+                        //  alert(postx);
+                        // alert(posty);
+                        ajax.post('__MODULE__/Check/toCheck',"postX="+postx+"&postY="+posty,function(data)
+                        {
+                            judge3 = data;
+                            //  alert(judge3);
+                            // judge3 = 1;
+
+                            if (judge3 == 1)
+                            {
+                                begin();
+                                oCon.style.display = "none";
+                            }
+                            else {
+                                oDraw.
+                                        style.left = "68px";
+                                oDraw.style.top = "68px";
+                            }
+                            document.
+                                    onmousemove = null;
+                            oDraw.
+                                    onmouseup = null;
+                        })
+                    }
+                    return false;
+                }
+            }
+        }
+        //以上是拼图的效果
+
+
+
+        /* 以下是文本框的出现和消失效果 */
+        var oFalse = document.getElementById("false");
+        var oInput = document.getElementById("inusername");
+        var oInput2 = document.getElementById("inpassword");
+        var oWarning = document.getElementById("warning");
+        var oHelp = document.getElementById("help");
+        oInput.visible = false;
+
+        var timmer4 = null;
+
+        oInput.onfocus = function()
+        {
+            oFalse.style.display = "none";
+            oWarning.style.display = "block";
+
+            clearTimeout(timmer4);
+
+            timmer4 = setTimeout( function()
+            {
+                oWarning.style.display = "none";
+            }, 3000);
+        }
+
+        oHelp.onmouseover = function()
+        {
+            oWarning.style.display = "block";
+
+            clearTimeout(timmer4);
+
+            timmer4 = setTimeout( function()
+            {
+                oWarning.style.display = "none";
+            }, 6000);
+        }
+        /* 以下是文本框的出现和消失效果 */
+
+        /*以下是点击登录后登录界面消失的样子*/
+        var oNext = document.getElementById("next");
+        var oLast = document.getElementById("last");
+        var oLoginB = document.getElementById("logbutton");
+        var oLogin = document.getElementById("login");
+        var timmer5 = null;
+        var t = 7;
+        var oQuestion = document.getElementById("question");
+
+        oLoginB.onmouseover = function()
+        {
+            oLoginB.style.border="4px solid #000";
+        }
+
+        oLoginB.onmouseout = function()
+        {
+            oLoginB.style.border="4px dashed #CC6633";
+        }
+        /*以上是点击登录后登录界面消失的样子*/
+        oLoginB.onclick = function()
+        {
+            UserName = oInput.value;
+            PassWord = oInput2.value;
+
+            // U ANS P 的格式验证，如果不符合格式，不能再往下执行
+            //   正则  /^\w{8}$/
+            // /^\w{9}$/
+            //记得提醒我，最后正则要加上15级同学的判定
+//            alert(tokenLogin);
+            ajax = Ajax();
+            ajax.post('__MODULE__/Login/toLogin', "xuehao=" + UserName + "&yikatong=" + PassWord+"&tokenLogin=" + tokenLogin, function (dataJ)
+            {
+                eval("var data = " + dataJ);
+                data['output'] = decodeURI(data['output']);
+                judgeLogin = data['result'];
+                // token = data['token'];
+                tokenLogin = data['tokenLogin'];
+                var judgeContinue = 0;
+                if (judgeLogin == 0)
+                {//无法登录
+
+                    False = data['output'];
+
+                    oFalse.innerHTML = False;
+                    oFalse.style.display = "block";
+                    shake(oLoginB);
+                }
+                else if (judgeLogin == 2) {//成功登录，开始答题
+                    alert("重复登录 是否继续");
+                    judgeContinue = 1;
+                    //1为确定再登陆；
+                }
+                else if(judgeLogin == 3 )
+                {
+                    alert(data['mark']);
+                    end(alert("跳到得分界面 成绩为"+ data['mark']));
+                }
+                if (judgeContinue == 1 || judgeLogin == 1)
+                {
+                  ajax.get('__MODULE__/Login/judgeStatue', function (dataJ)
+                    {
+                        eval("var data=" + dataJ);
+                        tokenLogin = data['tokenLogin'];
+                        Question = data['question'];
+
+                        ChA = data['choiceA'];
+                        ChB = data['choiceB'];
+                        ChC = data['choiceC'];
+                        ChD = data['choiceD'];
+                        timeUsed = data['timeUsed'];
+
+                        ajaxTime = Ajax();
+                        ajaxTime.post("__MODULE__/Time/toSubmit", '', function (data) {
+                            if (data = '1') {
+                                alert("强制结束答题");
+                                end();
+                            }
+                            else {
+                                //不会出错
+                                alert("出错！");
+                            }
+                        });
+                        getQuestion(questionnumber);
+                        var l = -1;
+                        arrange();
+                        setInterval(function () {
+                            ShowCountDown()
+                        }, interval);
+                        oQuestion.style.display = "block";
+                        timmer5 = setInterval(function () {
+                            if (t <= 40) {
+                                t = t + 0.5;
+                                /*oInput.value = t;*/
+                                oLogin.style.top = -125 - (l - ( 20 * t - 0.05 * t * t * t )) + "px";
+                            }
+                            else {
+                                //oQuestion.style.display = "block";
+                                oNext.style.display = "block";
+                                oLast.style.display = "block";
+                                clearInterval(timmer5);
+                            }
+                        }, 30);
+
+                    });
+                    //ajaxTime end
+                };
+                    //ajaxStatue end
+            });//ajax first judge end
+        }
+
+        /*   Question = data['question'];
+         ChA = data['choice']['a'];
+         ChB = data['choice']['b'];
+         ChC = data['choice']['c'];
+         ChD = data['choice']['d'];
+
+         //该用户已经使用的时间，单位是秒
+         timeUsed = data['timeUsed'];
+         ajaxTime = Ajax();
+         ajaxTime.post("__MODULE__/Time/toSubmit", '', function (data)
+         {
+         if (data = '1')
+         {
+         alert("强制结束答题");
+         end();
+         }
+         else
+         {
+         //不会出错
+         alert("出错！");
+         }
+         });
+         getQuestion(questionnumber);
+         var l = -1;
+         arrange();
+         setInterval(function ()
+         {
+         ShowCountDown()
+         }, interval);
+         oQuestion.style.display = "block";
+
+         timmer5 = setInterval(function () {
+         if (t <= 40) {
+         t = t + 0.5;
+         /*oInput.value = t;*/
+
+        /*
+         oLogin.style.top = -125 - (l - ( 20 * t - 0.05 * t * t * t )) + "px";
+         }
+         else {
+         //oQuestion.style.display = "block";
+         oNext.style.display = "block";
+         oLast.style.display = "block";
+         clearInterval(timmer5);
+         }
+         }
+         , 30);
+         }
+         else if (judgeLogin == 2)
+         {
+         //答题结束
+         alert(data['mark']);
+         end(alert("跳到得分界面 成绩为".data['mark']));
+         }
+         else if (judgeLogin == 3)
+         {
+
+         }
+         }
+
+         });
+         }
+         */
+
+        /*以下答题时的效果*/
+
+        var oAns = document.getElementById("Ans");
+        var aAns = oAns.getElementsByTagName("div");
+        var oNumber = document.getElementById("number");
+        var aNumberzone = oNumber.getElementsByTagName('div');
+        var answer;
+
+        for(var i = 0 ; i<aAns.length ; i++)
+        {
+            aAns[i].onmousedown = function()
+            {
+                for(var j = 0 ; j < aAns.length ; j++ )
+                {
+                    aAns[j].style.border = "";
+                }
+
+                this.style.border= "6px solid #CC6633";
+                Student[questionnumber] = this.className;//获取答案。
+
+                if(judgeArr[questionnumber] == 0)
+                {
+                    judgeCount++;
+                }
+                judgeArr[questionnumber] = 1;
+
+                if(questionnumber<=20)
+                {
+                    aNumberzone[questionnumber - 1].style.color = "#00CC33";
+                }
+                else
+                {
+                    aNumberzone[questionnumber - 21].style.color = "#00CC33";
+                }
+
+                for( var i = questionnumber ; i <= 40 ; i++ )
+                {
+                    if(judgeArr[i] == 0)
+                    {
+                        var transtime = null;
+                        questionnumber = i;
+                        transtime = setTimeout(translatemove,300);
+                        break;
+                    }
+                }
+            }
+        }
+
+        for(var i = 0 ; i<aAns.length ; i++)
+        {
+            aAns[i].onmouseover = function()
+            {
+                for(var j = 0 ; j < aAns.length ; j++ )
+                {
+                    aAns[j].style.border = "";
+                }
+                switch(Student[questionnumber])
+                {
+                    case "a":
+                        aAns[0].style.border = "6px solid #CC6633";
+                        break;
+
+                    case "b":
+                        aAns[1].style.border = "6px solid #CC6633";
+                        break;
+
+                    case "c":
+                        aAns[2].style.border = "6px solid #CC6633";
+                        break;
+
+                    case "d":
+                        aAns[3].style.border = "6px solid #CC6633";
+                        break;
+                }
+                this.style.border = "6px dashed #CC6633";
+            }
+            aAns[i].onmouseout = function()
+            {
+                for(var j = 0 ; j < aAns.length ; j++ )
+                {
+                    aAns[j].style.border = "";
+                }
+
+                switch(Student[questionnumber])
+                {
+                    case "a":
+                        aAns[0].style.border = "6px solid #CC6633";
+                        break;
+
+                    case "b":
+                        aAns[1].style.border = "6px solid #CC6633";
+                        break;
+
+                    case "c":
+                        aAns[2].style.border = "6px solid #CC6633";
+                        break;
+
+                    case "d":
+                        aAns[3].style.border = "6px solid #CC6633";
+                        break;
+                }
+            }
+        }
+        /*以上答题时的效果*/
+
+        /*以下是切换题目的效果*/
+        var oNext = document.getElementById("next");
+        var oLast = document.getElementById("last");
+        var oNumber = document.getElementById("number");
+        var aNumberzone = oNumber.getElementsByTagName('div');
+        var oNote = document.getElementById("note");
+
+        oNext.onclick = function()
+        {
+            if(questionnumber== 40 && judgeCount!=40)
+            {
+                var j = 0;
+                var Qnumber = new Array();
+
+                for( var i = 1 ; i <= 40 ; i++ )
+                {
+                    if( judgeArr[i] ==0 )
+                    {
+                        Qnumber[j] = i;
+                        j++;
+                    }
+                }//这里要输出还有哪些题没答
+                shake(oNext);
+                if(oDraw.setCapture)
+                {
+                    oNote.innerHTML = Qnumber+"<br><br>以上题目还没有做，请及时完成";
+                    oNote.style.display = "block";
+                    setTimeout(function()
+                    {
+                        oNote.style.display = "none";
+                    },2000);
+                }
+                else
+                {
+                    alert(Qnumber+"    以上题目还没有做，请及时完成");
+                }
+            }
+            else if(judgeCount==5)
+            {
+                ajaxMark = Ajax();
+                ajaxMark.post("__MODULE__/Question/toCount","result="+Student,function(data)
+                {
+                    // data 是成绩提交的反馈结果
+                    //后端需要做一个encode 否则汉字回事乱码
+                })
+                end();
+
+            }
+            else
+            {
+                gentrans();
+            }
+
+        }
+
+        oLast.onclick = function()
+        {
+            if(questionnumber >21 )
+            {
+                questionnumber--;
+                for(var j = 0 ; j < aNumberzone.length; j++)
+                {
+                    aNumberzone[j].style.background = "";
+                }
+
+                aNumberzone[questionnumber-21].style.background="#999999";
+                translatemove();
+            }
+            else if(questionnumber <= 21 && questionnumber >1 )
+            {
+                questionnumber--;
+                transback();
+                translatemove();
+            }
+            else
+            {
+                shake(oLast);
+            }
+
+        }
+
+        /*以上是切换题目的效果*/
+
+        /*以下是切换题号组的效果*/
+        var oDown = document.getElementById("pagedown");//向后
+        var oUp = document.getElementById("pageup");//向前
+
+        oUp.onclick = function()
+        {
+            if(aNumberzone[0].innerHTML == "21")
+            {
+                shake(oUp);
+            }
+            transon();
+        }
+
+        oDown.onclick = function()
+        {
+            if(aNumberzone[0].innerHTML == "1")
+            {
+                shake(oDown);
+            }
+            transback();
+        }
+
+        var oRight = document.getElementById("right");
+        var oWrong = document.getElementById("wrong");
+        var Rtop = 300;
+        var Wtop = 305;
+
+        oRight.onmouseover = function()
+        {
+            oWrong.style.top = Wtop + "px";
+            oRight.style.top = (Rtop + 5) + "px";
+        }
+
+        oWrong.onmouseover = function()
+        {
+            oWrong.style.top = (Wtop + 5) + "px";
+            oRight.style.top = Rtop + "px";
+        }
+
+        oRight.onclick = function()
+        {
+            aNumberzone[questionnumber - 21].style.color = "#00CC33";
+            oWrong.style.border = "6px dashed #CC6633";
+            oRight.style.border = "6px solid #CC6633";
+            Student[questionnumber] = this.className;
+            if(judgeArr[questionnumber] == 0)
+            {
+                judgeCount++;
+            }
+            judgeArr[questionnumber] = 1;
+
+            for( var i = questionnumber ; i <= 40 ; i++ )
+            {
+                if(judgeArr[i] == 0)
+                {
+                    var transtime = null;
+                    questionnumber = i;
+                    transtime = setTimeout(translatemove,300);
+
+                    break;
+                }
+            }
+        }
+
+        oWrong.onclick = function()
+        {
+            aNumberzone[questionnumber - 21].style.color = "#00CC33";
+            oRight.style.border = "6px dashed #CC6633";
+            oWrong.style.border = "6px solid #CC6633";
+            Student[questionnumber] = this.className;
+            if(judgeArr[questionnumber] == 0)
+            {
+                judgeCount++;
+            }
+            judgeArr[questionnumber] = 1;
+
+            for( var i = questionnumber ; i <= 40 ; i++ )
+            {
+                if(judgeArr[i] == 0)
+                {
+                    var transtime = null;
+                    questionnumber = i;
+                    transtime = setTimeout(translatemove,300);
+                    break;
+                }
+            }
+        }
+    }
+</script>

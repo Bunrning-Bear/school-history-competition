@@ -1124,13 +1124,15 @@ function S($name,$value='',$options=null) {
  */
 function F($name, $value='', $path=DATA_PATH) {
     static $_cache  =   array();
-    $filename       =   $path . $name . '.php';
+    $filename  =   $path . $name . '.php';
     if ('' !== $value) {
-        if (is_null($value)) {
+        if (is_null($value))
+        {
             // 删除缓存
             if(false !== strpos($name,'*')){
                 return false; // TODO 
-            }else{
+            }else
+            {
                 unset($_cache[$name]);
                 return Think\Storage::unlink($filename,'F');
             }
@@ -1141,13 +1143,17 @@ function F($name, $value='', $path=DATA_PATH) {
             return null;
         }
     }
+
     // 获取缓存数据
     if (isset($_cache[$name]))
         return $_cache[$name];
-    if (Think\Storage::has($filename,'F')){
+
+    if (Think\Storage::has($filename,'F'))
+    {
         $value      =   unserialize(Think\Storage::read($filename,'F'));
         $_cache[$name]  =   $value;
-    } else {
+    } else
+    {
         $value          =   false;
     }
     return $value;

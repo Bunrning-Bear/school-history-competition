@@ -9,9 +9,11 @@ function begin()
 	var t = 0.1;
 	var judge = 1;
 	var judge2 = 0;
-
+	var oTitle = document.getElementById("title");
+	
+	oTitle.style.display = "none";
 //以下是开
-
+	
 	if(oDoor1.currentStyle && oDoor2.currentStyle)
 	{
 		if (judge == 1) 

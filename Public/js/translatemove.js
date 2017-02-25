@@ -7,7 +7,6 @@ function translatemove()
 	var oQuestion = document.getElementById("question");
 	var timmer7 = null;
 	var timmer8=null;
-	var timmer9 = null;
 	var timer10=null;
 	var judge4 = 0;
 	var count = 0;
@@ -76,6 +75,18 @@ function translatemove()
 					aPanduan[i].style.border="6px dashed #CC6633";
 					aPanduan[i].style.display = "block";
 				}
+				
+				switch(Student[questionnumber])
+				{
+					case "a":
+					aPanduan[0].style.border = "6px solid #CC6633";
+ 					break;
+					
+					case "b":
+					aPanduan[1].style.border = "6px solid #CC6633";
+					break;
+                }
+				
 			}
 			else
 			{
@@ -88,9 +99,28 @@ function translatemove()
 				
 				for( var i = 0 ; i < aAns.length ; i++ )
 				{
-					aAns[i].style.border="6px dashed #CC6633";
+					aAns[i].style.border="";
 					aAns[i].style.display = "block";
 				}
+				
+				switch(Student[questionnumber])
+				{
+					case "a":
+					aAns[0].style.border = "6px solid #CC6633";
+ 					break;
+					
+					case "b":
+					aAns[1].style.border = "6px solid #CC6633";
+					break;
+					
+					case "c":
+					aAns[2].style.border = "6px solid #CC6633";
+					break;
+					
+					case "d":
+					aAns[3].style.border = "6px solid #CC6633";
+					break;
+                }
 				
 				for( var i = 0 ; i < aPanduan.length ; i++ )
 				{

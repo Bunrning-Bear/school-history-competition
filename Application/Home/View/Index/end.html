@@ -1,0 +1,82 @@
+<script>
+    function end(mark)
+    {
+        grade = mark;
+        window.onbeforeunload = null;
+        var timmer = null;
+        var oDoor1 = document.getElementById('door1');
+        var oDoor2 = document.getElementById('door2');
+        var oGrade = document.getElementById("grade");
+        var oExit = document.getElementById("exit");
+        var oGradenumber = document.getElementById("gradenumber");
+        var timmer2 = null;
+        var timmer3 = null;
+        var t = 0.1;
+        var judge = 1;
+        var judge2 = 0;
+
+//以下是开
+
+        if(oDoor1.currentStyle && oDoor2.currentStyle)
+        {
+            if (judge == 1)
+            {
+                timmer = setInterval( function()
+                {
+                    if (oDoor1.offsetWidth  <=370)
+                    {
+                        oDoor1.runtimeStyle.width = (oDoor1.offsetWidth + t) + "px";
+                        oDoor2.runtimeStyle.width = (oDoor2.offsetWidth + t) + "px";
+
+                        t = t * (12/11);
+                    }
+                    else
+                    {
+                        oDoor1.runtimeStyle.width =  "400px";
+                        oDoor2.runtimeStyle.width =  "400px";
+                        judge2 = 1;
+                        //alert(judge);
+                        clearInterval(timmer);
+                    }
+                },15);
+            }
+        }
+        else
+        {
+            if (judge == 1)
+            {
+                timmer = setInterval( function()
+                {
+                    if (oDoor1.offsetWidth  <=370)
+                    {
+                        oDoor1.style.width = (oDoor1.offsetWidth +t) + "px";
+                        oDoor2.style.width = (oDoor2.offsetWidth + t) + "px";
+
+                        t = t * (12/11);
+                    }
+                    else
+                    {
+                        oDoor1.style.width =  "400px";
+                        oDoor2.style.width =  "400px";
+                        judge2 = 1;
+                        //alert(judge);
+                        clearInterval(timmer);
+                        //end();
+                    }
+                },30);
+            }
+        }
+
+        setTimeout(function()
+        {
+            oGrade.style.display = "block";
+            oGradenumber.innerHTML = grade;
+        },2100);
+
+        oExit.onclick = function()
+        {
+            window.location.href="__MODULE__/Login/Logoff";
+        }
+    }
+
+</script>
