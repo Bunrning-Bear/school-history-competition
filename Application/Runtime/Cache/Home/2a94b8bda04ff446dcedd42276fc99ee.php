@@ -4,7 +4,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Untitled Document</title>
 
-<link rel="stylesheet" type="text/css" href="/SHCS/Public/Css/AllCss.css" />
+<link rel="stylesheet" type="text/css" href="/shcs/Public/Css/AllCss.css" />
 </head>
 <script>
 var questionnumber = 1;//存储题号的变量,可能会在有些环境下变为字符串类型
@@ -58,10 +58,10 @@ for(var i = 1 ; i < 21 ; i++ )
 }
 function RunOnBeforeUnload() {window.onbeforeunload = function(){ return '将丢失未保存的数据!';} }
 </script>
-<script type="text/javascript" src="/SHCS/Public/oriAnswer.js"></script>
-<script type="text/javascript" src="/SHCS/Public/Js/Ajax.js"></script>
-<script type="text/javascript" src="/SHCS/Public/Js/getPanduan.js"></script>
-<script type="text/javascript" src="/SHCS/Public/Js/getQuestion.js"></script>
+<script type="text/javascript" src="/shcs/Public/oriAnswer.js"></script>
+<script type="text/javascript" src="/shcs/Public/Js/Ajax.js"></script>
+<script type="text/javascript" src="/shcs/Public/Js/getPanduan.js"></script>
+<script type="text/javascript" src="/shcs/Public/Js/getQuestion.js"></script>
 <!--import type='js' file='Js.end' /-->
 <script>
     function end(mark)
@@ -140,20 +140,20 @@ function RunOnBeforeUnload() {window.onbeforeunload = function(){ return '将丢
 
         oExit.onclick = function()
         {
-            window.location.href="/SHCS/index.php/Home/Login/Logoff";
+            window.location.href="/shcs/index.php/Home/Login/Logoff";
         }
     }
 
 </script>
-<script type="text/javascript" src="/SHCS/Public/Js/gentrans.js"></script>
-<script type="text/javascript" src="/SHCS/Public/Js/transon.js"></script>
-<script type="text/javascript" src="/SHCS/Public/Js/transback.js"></script>
-<script type="text/javascript" src="/SHCS/Public/Js/shake.js"></script>
-<script type="text/javascript" src="/SHCS/Public/Js/arrange.js"></script>
-<script type="text/javascript" src="/SHCS/Public/Js/translatemove.js"></script>
-<script type="text/javascript" src="/SHCS/Public/Js/begin.js"></script>
+<script type="text/javascript" src="/shcs/Public/Js/gentrans.js"></script>
+<script type="text/javascript" src="/shcs/Public/Js/transon.js"></script>
+<script type="text/javascript" src="/shcs/Public/Js/transback.js"></script>
+<script type="text/javascript" src="/shcs/Public/Js/shake.js"></script>
+<script type="text/javascript" src="/shcs/Public/Js/arrange.js"></script>
+<script type="text/javascript" src="/shcs/Public/Js/translatemove.js"></script>
+<script type="text/javascript" src="/shcs/Public/Js/begin.js"></script>
 
-﻿<script type="text/javascript" src="/SHCS/Public/Js/Ajax.js"></script>
+﻿<script type="text/javascript" src="/shcs/Public/Js/Ajax.js"></script>
 <script>
 var tokenLogin = "<?php echo ($tokenLogin); ?>";
 window.onload = function() 
@@ -243,7 +243,7 @@ window.onload = function()
 					alert(posty);
 					ajax = Ajax();
 
-					ajax.post('/SHCS/index.php/Home/Check/toCheck',"postX="+postx+"&postY="+posty,function(data)
+					ajax.post('/shcs/index.php/Home/Check/toCheck',"postX="+postx+"&postY="+posty,function(data)
 					{
 						judge3 = data;
 						judge3 = 1;
@@ -317,7 +317,7 @@ window.onload = function()
 					ajax = Ajax();
 				  //  alert(postx);
 				   // alert(posty);
-					ajax.post('/SHCS/index.php/Home/Check/toCheck',"postX="+postx+"&postY="+posty,function(data)
+					ajax.post('/shcs/index.php/Home/Check/toCheck',"postX="+postx+"&postY="+posty,function(data)
 					{
 						judge3 = data;
 				  //  alert(judge3);
@@ -412,7 +412,7 @@ window.onload = function()
         //记得提醒我，最后正则要加上15级同学的判定
 //            alert(tokenLogin);
         ajax = Ajax();
-        ajax.post('/SHCS/index.php/Home/Login/toLogin', "xuehao=" + UserName + "&yikatong=" + PassWord+"&tokenLogin=" + tokenLogin, function (dataJ)
+        ajax.post('/shcs/index.php/Home/Login/toLogin', "xuehao=" + UserName + "&yikatong=" + PassWord+"&tokenLogin=" + tokenLogin, function (dataJ)
         {
         	//alert(JSON.stringify(dataJ));
             eval("var data = " + dataJ);
@@ -452,7 +452,7 @@ window.onload = function()
             if (judgeContinue == 1 || judgeLogin == 1)
             {
 
-                ajax.get('/SHCS/index.php/Home/Login/judgeStatue', function (dataJ)
+                ajax.get('/shcs/index.php/Home/Login/judgeStatue', function (dataJ)
                 {
                 	// alert(JSON.stringify(dataJ));
                     eval("var data=" + dataJ);
@@ -466,7 +466,7 @@ window.onload = function()
                     timeUsed = data['timeUsed'];
 
                     ajaxTime = Ajax();
-                    ajaxTime.post("/SHCS/index.php/Home/Time/toSubmit", '', function (data)
+                    ajaxTime.post("/shcs/index.php/Home/Time/toSubmit", '', function (data)
                     {
                     	alert(data);
                     	eval("var data=" + data);
@@ -474,7 +474,7 @@ window.onload = function()
                         {
                             alert("强制结束答题");
                             ajaxMark = Ajax();
-                            ajaxMark.post("/SHCS/index.php/Home/Question/toCount","result="+Student,function(data) {
+                            ajaxMark.post("/shcs/index.php/Home/Question/toCount","result="+Student,function(data) {
                             	alert(Student);
                             	alert(data);
                                 if (data == -1) {
@@ -674,7 +674,7 @@ window.onload = function()
 		else if(judgeCount==40)
 		{
 			ajaxMark = Ajax();
-			ajaxMark.post("/SHCS/index.php/Home/Question/toCount","result="+Student,function(data)
+			ajaxMark.post("/shcs/index.php/Home/Question/toCount","result="+Student,function(data)
 			{
             if(data == -1 )
             {
@@ -822,7 +822,7 @@ window.onload = function()
 
 
 </script>
-<script type="text/javascript" src="/SHCS/Public/Js/time.js"></script>
+<script type="text/javascript" src="/shcs/Public/Js/time.js"></script>
 
 <body>
 <div id="wrapper">
@@ -901,11 +901,11 @@ window.onload = function()
   <div id="container">
           <!--<div class="div1" style="background:#000"></div>-->
           <div class="div1" id="draw">
-              <img src = '/SHCS/Public/check/<?php echo ($cutURL); ?>' />
+              <img src = '/shcs/Public/check/<?php echo ($cutURL); ?>' />
           </div>
           <div id="container2">
               <div class="div2" id="choice"></div>
-              <img src = '/SHCS/Public/check/<?php echo ($coverURL); ?>'/>
+              <img src = '/shcs/Public/check/<?php echo ($coverURL); ?>'/>
           </div>
   </div>
   <div id="grade" style="display:none">
