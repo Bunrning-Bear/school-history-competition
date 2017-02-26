@@ -4,16 +4,18 @@ use Think\Controller;
 class QuestionController extends Controller
 {
 
-    protected $numSelectMax=20;
+    protected $totalSelect=20;
     protected $numSelect=20;
-    protected $numJudgeMax=20;
+    protected $totalJudge=20;
     protected $numJudge=20;
-    protected $userNumber=3;//学生总数
-    protected $questionCount=6;
-    // 
-    protected $typeAmount = array(20,20);
-    protected $questionAmount = array(20,20);
+    protected $typeAmount;
+    protected $questionAmount;
     //获取用户题目随机序列;
+    function __construct()
+    {
+        $this->typeAmount = array($this->numSelect, $this->numJudge);
+        $this->questionAmount = array($this->totalSelect, $this->totalJudge);
+    }
     public function toRandom()
     {
         $question = M('questions');
@@ -210,12 +212,12 @@ class QuestionController extends Controller
             $rightS = 0; //记录答对的选择题
             $rightJ = 0;//记录答对的判断题
             for ($i = 0; $i < $this->numSelect; $i++) {
-                if (strcasecmp($resultAnswer[$i * 2 + 1],$keyAnswer[$i]==0)) {
+                if (strcasecmp($resultAnswer[$i * 2 + 1],$keyAnswer[$i*2])==0) {
                     $rightS++;
                 }
             }
             for ($i = $this->numSelect; $i < $this->numSelect + $this->numJudge; $i++) {
-                if (strcasecmp($resultAnswer[$i * 2 + 1],$keyAnswer[$i]==0)) {
+                if (strcasecmp($resultAnswer[$i * 2 + 1],$keyAnswer[$$i*2])==0) {
                     $rightJ++;
                 }
             }

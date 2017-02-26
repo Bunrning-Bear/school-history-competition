@@ -468,11 +468,15 @@ window.onload = function()
                     ajaxTime = Ajax();
                     ajaxTime.post("/SHCS/index.php/Home/Time/toSubmit", '', function (data)
                     {
-                        if (data == 1)
+                    	alert(data);
+                    	eval("var data=" + data);
+                        if (data['result'] == 1)
                         {
                             alert("强制结束答题");
                             ajaxMark = Ajax();
                             ajaxMark.post("/SHCS/index.php/Home/Question/toCount","result="+Student,function(data) {
+                            	alert(Student);
+                            	alert(data);
                                 if (data == -1) {
                                     alert("非法提交成绩");
                                 }
@@ -678,6 +682,7 @@ window.onload = function()
             }
                 else
             {
+            	alert(data);
                 end(data);
             }
                // data 是成绩提交的反馈结果

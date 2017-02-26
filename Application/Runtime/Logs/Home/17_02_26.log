@@ -1068,3 +1068,858 @@ INFO: [ app_init ] --START--
 INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
 INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
 
+[ 2017-02-26T10:08:24+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Question/toMemcache
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.012708s ]
+
+[ 2017-02-26T10:18:54+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Question/toRandom
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000786s ]
+
+[ 2017-02-26T10:19:00+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Question/toMemcache
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000490s ]
+
+[ 2017-02-26T10:19:05+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Question/toMemcache
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000730s ]
+
+[ 2017-02-26T10:19:31+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Question/toMemcache
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000556s ]
+
+[ 2017-02-26T10:19:38+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Question/toMemcache
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000543s ]
+
+[ 2017-02-26T10:19:40+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Question/toMemcache
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000579s ]
+
+[ 2017-02-26T10:20:04+08:00 ] 127.0.0.1 /SHCS/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000634s ]
+
+[ 2017-02-26T10:20:07+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Check/toCheck
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000540s ]
+
+[ 2017-02-26T10:20:13+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Login/toLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000661s ]
+
+[ 2017-02-26T10:20:13+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Login/judgeStatue
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000594s ]
+
+[ 2017-02-26T10:20:52+08:00 ] 127.0.0.1 /SHCS/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001525s ]
+
+[ 2017-02-26T10:20:56+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Check/toCheck
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000619s ]
+
+[ 2017-02-26T10:21:02+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Login/toLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000644s ]
+
+[ 2017-02-26T10:21:04+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Login/judgeStatue
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000716s ]
+
+[ 2017-02-26T10:22:13+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Time/toSubmit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000725s ]
+
+[ 2017-02-26T10:22:34+08:00 ] 127.0.0.1 /SHCS/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+
+[ 2017-02-26T10:22:36+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Check/toCheck
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000813s ]
+
+[ 2017-02-26T10:22:42+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Login/toLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000492s ]
+
+[ 2017-02-26T10:22:43+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Login/judgeStatue
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000762s ]
+
+[ 2017-02-26T10:23:04+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Time/toSubmit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001185s ]
+
+[ 2017-02-26T10:23:09+08:00 ] 127.0.0.1 /SHCS/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000663s ]
+
+[ 2017-02-26T10:23:11+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Check/toCheck
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000705s ]
+
+[ 2017-02-26T10:23:17+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Login/toLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+
+[ 2017-02-26T10:23:20+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Login/toLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+
+[ 2017-02-26T10:23:21+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Login/judgeStatue
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000588s ]
+
+[ 2017-02-26T10:23:21+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Time/toSubmit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000390s ]
+
+[ 2017-02-26T10:23:43+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Time/toSubmit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+
+[ 2017-02-26T10:25:31+08:00 ] 127.0.0.1 /SHCS/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+
+[ 2017-02-26T10:25:32+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Check/toCheck
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000637s ]
+
+[ 2017-02-26T10:25:39+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Login/toLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000531s ]
+
+[ 2017-02-26T10:25:40+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Login/judgeStatue
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+
+[ 2017-02-26T10:25:40+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Time/toSubmit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000396s ]
+
+[ 2017-02-26T10:25:54+08:00 ] 127.0.0.1 /SHCS/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+
+[ 2017-02-26T10:25:57+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Check/toCheck
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+
+[ 2017-02-26T10:26:03+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Login/toLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+
+[ 2017-02-26T10:26:04+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Login/judgeStatue
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+
+[ 2017-02-26T10:26:04+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Time/toSubmit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+
+[ 2017-02-26T10:26:06+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Question/toCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000854s ]
+
+[ 2017-02-26T10:26:09+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Login/Logoff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+
+[ 2017-02-26T10:26:10+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Check/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000392s ]
+
+[ 2017-02-26T10:32:48+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Check/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+
+[ 2017-02-26T10:32:50+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Check/toCheck
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000399s ]
+
+[ 2017-02-26T10:32:57+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Login/toLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000396s ]
+
+[ 2017-02-26T10:33:03+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Question/toRandom
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+
+[ 2017-02-26T10:33:43+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Question/toRandom
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+
+[ 2017-02-26T10:34:01+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Question/toRandom
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000416s ]
+
+[ 2017-02-26T10:35:51+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Login/Logoff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+
+[ 2017-02-26T10:35:51+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Check/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+
+[ 2017-02-26T10:35:53+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Check/toCheck
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+
+[ 2017-02-26T10:36:03+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Login/toLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000396s ]
+
+[ 2017-02-26T10:36:05+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Login/judgeStatue
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000646s ]
+
+[ 2017-02-26T10:37:05+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Time/toSubmit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000409s ]
+
+[ 2017-02-26T10:38:20+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Check/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+
+[ 2017-02-26T10:38:22+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Check/toCheck
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000786s ]
+
+[ 2017-02-26T10:38:24+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Check/toCheck
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+
+[ 2017-02-26T10:38:32+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Login/toLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+
+[ 2017-02-26T10:38:32+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Login/judgeStatue
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000682s ]
+
+[ 2017-02-26T10:38:42+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Time/toSubmit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+
+[ 2017-02-26T10:38:44+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Question/toCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+
+[ 2017-02-26T10:39:34+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Login/Logoff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000789s ]
+
+[ 2017-02-26T10:39:35+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Check/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+
+[ 2017-02-26T10:39:37+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Check/toCheck
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+
+[ 2017-02-26T10:39:38+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Check/toCheck
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000393s ]
+
+[ 2017-02-26T10:39:44+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Login/toLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+
+[ 2017-02-26T10:39:46+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Login/toLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+
+[ 2017-02-26T10:39:50+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Login/toLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000390s ]
+
+[ 2017-02-26T10:41:16+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Login/Logoff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000499s ]
+
+[ 2017-02-26T10:41:16+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Check/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000558s ]
+
+[ 2017-02-26T10:41:18+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Check/toCheck
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000396s ]
+
+[ 2017-02-26T10:41:26+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Login/toLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+
+[ 2017-02-26T10:42:11+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Login/Logoff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+
+[ 2017-02-26T10:42:11+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Check/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000391s ]
+
+[ 2017-02-26T10:42:13+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Check/toCheck
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000498s ]
+
+[ 2017-02-26T10:42:20+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Login/toLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000396s ]
+
+[ 2017-02-26T10:42:20+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Login/judgeStatue
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+
+[ 2017-02-26T10:42:30+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Time/toSubmit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+
+[ 2017-02-26T10:44:37+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Question/toRandom
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000768s ]
+
+[ 2017-02-26T10:44:40+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Check/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001564s ]
+
+[ 2017-02-26T10:44:43+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Check/toCheck
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+
+[ 2017-02-26T10:44:49+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Login/toLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000391s ]
+
+[ 2017-02-26T10:44:50+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Login/judgeStatue
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000838s ]
+
+[ 2017-02-26T10:45:00+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Time/toSubmit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000556s ]
+
+[ 2017-02-26T10:47:13+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Question/toRandom
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000537s ]
+
+[ 2017-02-26T10:47:16+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Check/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001400s ]
+
+[ 2017-02-26T10:47:17+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Check/toCheck
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000498s ]
+
+[ 2017-02-26T10:47:24+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Login/toLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000505s ]
+
+[ 2017-02-26T10:47:26+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Login/judgeStatue
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000889s ]
+
+[ 2017-02-26T10:47:36+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Time/toSubmit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+
+[ 2017-02-26T10:47:40+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Question/toCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000598s ]
+
+[ 2017-02-26T10:58:50+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Login/Logoff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000516s ]
+
+[ 2017-02-26T10:58:51+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Check/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+
+[ 2017-02-26T10:58:55+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Check/toCheck
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+
+[ 2017-02-26T10:59:04+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Login/toLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+
+[ 2017-02-26T10:59:07+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Login/toLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000402s ]
+
+[ 2017-02-26T10:59:08+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Login/judgeStatue
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000730s ]
+
+[ 2017-02-26T10:59:18+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Time/toSubmit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000606s ]
+
+[ 2017-02-26T10:59:21+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Question/toCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000839s ]
+
+[ 2017-02-26T10:59:34+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Question/toRandom
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000720s ]
+
+[ 2017-02-26T10:59:36+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Login/Logoff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+
+[ 2017-02-26T10:59:36+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Check/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000393s ]
+
+[ 2017-02-26T11:00:43+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Check/toCheck
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000587s ]
+
+[ 2017-02-26T11:00:50+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Login/toLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000388s ]
+
+[ 2017-02-26T11:00:56+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Login/toLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000387s ]
+
+[ 2017-02-26T11:00:56+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Login/judgeStatue
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+
+[ 2017-02-26T11:01:26+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Time/toSubmit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000571s ]
+
+[ 2017-02-26T11:10:20+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Check/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+
+[ 2017-02-26T11:10:22+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Question/toRandom
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000627s ]
+
+[ 2017-02-26T11:10:24+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Check/toCheck
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000392s ]
+
+[ 2017-02-26T11:10:25+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Check/toCheck
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+
+[ 2017-02-26T11:10:31+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Login/toLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+
+[ 2017-02-26T11:10:32+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Login/judgeStatue
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000702s ]
+
+[ 2017-02-26T11:10:52+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Time/toSubmit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000393s ]
+
+[ 2017-02-26T11:10:55+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Question/toCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001249s ]
+
+[ 2017-02-26T11:13:38+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Question/toRandom
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000615s ]
+
+[ 2017-02-26T11:13:40+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Check/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+
+[ 2017-02-26T11:13:42+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Check/toCheck
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+
+[ 2017-02-26T11:13:48+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Login/toLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+
+[ 2017-02-26T11:13:48+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Login/judgeStatue
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+
+[ 2017-02-26T11:14:08+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Time/toSubmit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000676s ]
+
+[ 2017-02-26T11:14:10+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Question/toCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000112s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001223s ]
+
+[ 2017-02-26T11:16:41+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Login/Logoff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000691s ]
+
+[ 2017-02-26T11:16:41+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Check/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+
+[ 2017-02-26T11:16:44+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Check/toCheck
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000388s ]
+
+[ 2017-02-26T11:16:46+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Check/toCheck
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000390s ]
+
+[ 2017-02-26T11:16:53+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Login/toLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000391s ]
+
+[ 2017-02-26T11:16:53+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Login/judgeStatue
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+
+[ 2017-02-26T11:17:13+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Time/toSubmit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+
+[ 2017-02-26T11:17:16+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Question/toCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000746s ]
+
+[ 2017-02-26T11:17:35+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Question/toRandom
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000477s ]
+
+[ 2017-02-26T11:17:37+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Login/Logoff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000396s ]
+
+[ 2017-02-26T11:17:37+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Check/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+
+[ 2017-02-26T11:17:39+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Check/toCheck
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+
+[ 2017-02-26T11:17:41+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Check/toCheck
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+
+[ 2017-02-26T11:17:48+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Login/toLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000737s ]
+
+[ 2017-02-26T11:17:48+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Login/judgeStatue
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+
+[ 2017-02-26T11:18:04+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Check/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000563s ]
+
+[ 2017-02-26T11:18:05+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Check/toCheck
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000602s ]
+
+[ 2017-02-26T11:18:08+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Time/toSubmit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000581s ]
+
+[ 2017-02-26T11:18:08+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Check/toCheck
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+
+[ 2017-02-26T11:18:15+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Login/toLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000387s ]
+
+[ 2017-02-26T11:18:16+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Login/judgeStatue
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001144s ]
+
+[ 2017-02-26T11:18:16+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Time/toSubmit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000397s ]
+
+[ 2017-02-26T11:18:17+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Question/toCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000765s ]
+
+[ 2017-02-26T11:18:25+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Question/toRandom
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000656s ]
+
+[ 2017-02-26T11:18:33+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Login/Logoff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000402s ]
+
+[ 2017-02-26T11:18:33+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Check/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001050s ]
+
+[ 2017-02-26T11:18:35+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Check/toCheck
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+
+[ 2017-02-26T11:18:42+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Login/toLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+
+[ 2017-02-26T11:18:42+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Login/judgeStatue
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+
+[ 2017-02-26T11:19:02+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Time/toSubmit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+
+[ 2017-02-26T11:19:04+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Question/toCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003153s ]
+
+[ 2017-02-26T11:20:26+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Login/Logoff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+
+[ 2017-02-26T11:20:26+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Check/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000573s ]
+
+[ 2017-02-26T11:20:28+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Check/toCheck
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+
+[ 2017-02-26T11:20:36+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Login/toLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000386s ]
+
+[ 2017-02-26T11:20:36+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Login/judgeStatue
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+
+[ 2017-02-26T11:20:44+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Question/toMemcache
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000399s ]
+
+[ 2017-02-26T11:20:47+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Check/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000537s ]
+
+[ 2017-02-26T11:20:49+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Check/toCheck
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000577s ]
+
+[ 2017-02-26T11:20:56+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Login/toLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000386s ]
+
+[ 2017-02-26T11:20:56+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Time/toSubmit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+
+[ 2017-02-26T11:20:59+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Login/Logoff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000952s ]
+
+[ 2017-02-26T11:20:59+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Check/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+
+[ 2017-02-26T11:21:01+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Check/toCheck
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000611s ]
+
+[ 2017-02-26T11:21:13+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Question/toRandom
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000656s ]
+
+[ 2017-02-26T11:21:15+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Question/toRandom
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+
+[ 2017-02-26T11:21:19+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Login/toLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000392s ]
+
+[ 2017-02-26T11:21:19+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Login/judgeStatue
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+
+[ 2017-02-26T11:21:39+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Time/toSubmit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+
+[ 2017-02-26T11:21:41+08:00 ] 127.0.0.1 /SHCS/index.php/Home/Question/toCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000737s ]
+

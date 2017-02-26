@@ -12,5 +12,6 @@ return array(
     'TOKEN_TYPE'    =>    'md5',  //令牌哈希验证规则 默认为MD5
     'TOKEN_RESET'   =>    true,  //令牌验证出错后是否重置令牌 默认为true
 */
-    'DATA_CACHE_TYPE'       =>  'Memcache' // 数据缓存类型,支持:File|Db|Apc|Memcache|Shmop|Sqlite|Xcache|Apachenote|Eaccelerator
+    'DATA_CACHE_TYPE'       =>  'Memcache', // 数据缓存类型,支持:File|Db|Apc|Memcache|Shmop|Sqlite|Xcache|Apachenote|Eaccelerator
+    'COMPITITION_TIME' => 3600
 );

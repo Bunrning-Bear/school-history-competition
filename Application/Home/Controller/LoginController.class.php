@@ -112,6 +112,7 @@ public function judgeStatue()
         {
             $save['time'] = time();//储存时间戳
             $toReturn['timeUsed'] = 0;// 返回已用时间
+            $_SESSION['timeUsed'] = 0;
             $condition['stuid'] = $stuID;
             $user = M("User");
             $user->where($condition)->save($save);
@@ -120,6 +121,7 @@ public function judgeStatue()
         {
             $toReturn['result'] = 1;//登录成功
             $toReturn['timeUsed'] = time() - $time;//记录登录时间
+            $_SESSION['timeUsed'] = time() - $time;//记录登录时间
         }
     }
     $this->ajaxReturn($toReturn);
